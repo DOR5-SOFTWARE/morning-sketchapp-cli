@@ -1,0 +1,2266 @@
+{
+  "commit": "ebe35af5ba78090fd351ed427ecaafac003e0331",
+  "pagesAndArtboards": {
+    "08D987B5-5FA9-4F20-9F47-DAA065097F49": {
+      "name": "Symbols",
+      "artboards": {
+        "4D514B92-21A5-4F4F-87A1-4D7023A4DEF1": {
+          "name": "desktop/HE/1) H6 Headline/left/light"
+        },
+        "6862A2B6-44C9-4342-A09B-A94B71F0C44D": {
+          "name": "desktop/HE/2) H2 Headline/center/disabled"
+        },
+        "EE3CA5AC-2148-4E63-9AB9-57E6CC039CAA": {
+          "name": "desktop/HE/7) subtitle 1/right/attention"
+        },
+        "20B0C808-E257-4554-9CF7-6E33908F20EA": {
+          "name": "desktop/EN/12) C2 Caption/left/attention"
+        },
+        "123918EA-5516-477C-BBCF-656E98FC0B53": {
+          "name": "desktop/EN/14) tiny/right/attention"
+        },
+        "6A27D997-E021-4F50-8AAF-A82E9B0D63DB": {
+          "name": "desktop/EN/4) H4 Headline/right/secondary"
+        },
+        "1382E4A9-E881-45FF-8880-86A399999883": {
+          "name": "desktop/EN/1) H6 Headline/right/primary"
+        },
+        "1F1A3A16-CFE1-4BD5-BF8B-20D8F4DB51B3": {
+          "name": "desktop/HE/17) buttons/center/disabled"
+        },
+        "DDC08CCC-AC1D-45FF-AC42-14742FC758B4": {
+          "name": "desktop/EN/6) H6 Headline/right/primary"
+        },
+        "52F83B11-55D0-43D6-BFB7-F69F413089ED": {
+          "name": "desktop/EN/16) links/S/right/link-active"
+        },
+        "BE13BB72-A9B8-47DE-BE01-75CBED44949A": {
+          "name": "desktop/EN/8) subtitle 2/left/primary"
+        },
+        "65BEA230-5363-43B9-B634-36FE65DEC823": {
+          "name": "desktop/HE/1) H6 Headline/right/disabled"
+        },
+        "751FE1A9-C40C-46E2-91F7-9BC6270F3D6C": {
+          "name": "desktop/EN/11) C1 Caption/left/dark"
+        },
+        "11D9815B-814F-4F78-AC96-D0BA09C0F355": {
+          "name": "desktop/HE/14) tiny/left/primary"
+        },
+        "5D61334E-2695-402B-A9E1-8E1006731DBB": {
+          "name": "desktop/EN/16) links/L/right/secondary-hover"
+        },
+        "ABD8E2C5-13D8-4544-98FA-1C5BF95B92DB": {
+          "name": "desktop/HE/16) links/M/left/secondary"
+        },
+        "2A93878A-22AD-454E-B93A-6256C6414B74": {
+          "name": "desktop/HE/3) H3 Headline/left/light"
+        },
+        "F367EDF7-81E4-433A-B844-BA6534FB28A5": {
+          "name": "desktop/EN/9) P1 Paragraph/right/success"
+        },
+        "02D10AB4-9CD7-48BF-B0CB-8495A29E9B46": {
+          "name": "desktop/EN/11) C1 Caption/left/attention"
+        },
+        "A31A2726-2D3D-4270-8EF3-B1621C697CDF": {
+          "name": "desktop/HE/6) H6 Headline/left/secondary "
+        },
+        "52E4A30A-9154-4DC1-AECF-EFCC7B49B2E0": {
+          "name": "desktop/EN/6) H6 Headline/left/secondary"
+        },
+        "545D7177-BF52-4A58-8932-FCC031140A88": {
+          "name": "desktop/EN/1) H6 Headline/center/dark"
+        },
+        "B19BEB1B-79B0-4073-A099-77D181068F0A": {
+          "name": "desktop/HE/12) C2 Caption/right/disabled"
+        },
+        "34EBC743-961D-4B4C-850F-D65605358345": {
+          "name": "desktop/HE/16) links/L/left/light"
+        },
+        "E7C79FEF-5AF8-4FF9-A0B5-B0D3344B1092": {
+          "name": "desktop/EN/16) links/M/right/primary-hover"
+        },
+        "EEF93AB7-039B-4A6A-9064-F654F208373A": {
+          "name": "desktop/HE/12) C2 Caption/left/disabled"
+        },
+        "F191781B-BBCE-4FC5-BE9F-3EB1959AC652": {
+          "name": "desktop/EN/11) C1 Caption/center/dark"
+        },
+        "02B7BF4E-E06B-4D8B-A118-6333CD0EF917": {
+          "name": "desktop/EN/13) small/left/dark"
+        },
+        "FF56F022-73CE-42C3-8F4E-AAE34C3CA884": {
+          "name": "desktop/HE/8) subtitle 2/left/primary"
+        },
+        "BB1BAE48-7F07-4BCB-9732-4EECA7430E1F": {
+          "name": "desktop/HE/10) P2 Paragraph/center/dark"
+        },
+        "1D6CA970-907B-4F59-B68E-C5357F254D7B": {
+          "name": "desktop/EN/7) subtitle 1/left/attention"
+        },
+        "12B234A2-2832-437E-BF46-BCEF68683579": {
+          "name": "desktop/EN/10) P2 Paragraph/left/attention"
+        },
+        "67B38338-1176-4832-8665-00368E1064B6": {
+          "name": "desktop/EN/16) links/breadcrumbs/selected"
+        },
+        "AD715EDC-3772-4420-8AC4-CA73A30BF54B": {
+          "name": "desktop/HE/12) C2 Caption/left/primary"
+        },
+        "8A8D614A-F9A9-4DE9-8772-BADCE5645C52": {
+          "name": "desktop/HE/11) C1 Caption/left/secondary"
+        },
+        "820103B0-5E68-49F3-A806-1BAB50348F69": {
+          "name": "desktop/EN/16) links/L/right/primary"
+        },
+        "5C7CE5AF-0A81-4849-9285-041901120F54": {
+          "name": "desktop/HE/12) C2 Caption/center/disabled"
+        },
+        "3850304E-D29A-43B8-A3F8-78B66F240E8B": {
+          "name": "desktop/EN/1) H6 Headline/right/secondary"
+        },
+        "ACBEEE2F-EFCF-48B5-9AB7-C8F784A65DF6": {
+          "name": "desktop/EN/16) links/S/right/secondary"
+        },
+        "0592F600-B998-4F1E-A948-35126632876C": {
+          "name": "desktop/EN/11) C1 Caption/right/dark"
+        },
+        "E17EB650-557B-4C88-B5CF-C8DAF4138BB7": {
+          "name": "desktop/EN/14) tiny/center/secondary"
+        },
+        "27D5105F-1F4F-4AF8-9E3D-CE2CCFFE67DD": {
+          "name": "desktop/EN/14) tiny/left/attention"
+        },
+        "EBF492CA-1145-4882-AAC0-EFB51351E404": {
+          "name": "desktop/EN/16) links/L/left/secondary-hover"
+        },
+        "1D347123-CAFC-4774-8AF1-93C92297C2C3": {
+          "name": "desktop/HE/12) C2 Caption/left/success"
+        },
+        "15902DDD-1CE0-4811-AB90-9C526F5C8DCC": {
+          "name": "desktop/EN/8) subtitle 2/left/disabled"
+        },
+        "3226C93B-FA96-458E-83B2-C1AC990DB75F": {
+          "name": "desktop/HE/1) H6 Headline/center/secondary"
+        },
+        "8A234FB8-BD5F-4AFF-ABA7-18C14F266C98": {
+          "name": "desktop/EN/12) C2 Caption/left/secondary"
+        },
+        "612B3055-555E-4728-85C4-F1DCF6EC9C9A": {
+          "name": "desktop/HE/16) links/S/left/light-hover"
+        },
+        "F54DAADB-73F3-41F2-8C32-F6B5CFFC66D6": {
+          "name": "desktop/HE/16) links/S/right/primary"
+        },
+        "573650D7-76E5-4145-8469-7687AB974D7B": {
+          "name": "desktop/HE/17) buttons/right/dark"
+        },
+        "7E440E48-F85D-4083-98B6-0608E81A1327": {
+          "name": "desktop/EN/16) links/L/center/primary-hover"
+        },
+        "65567399-C7E4-4DF4-AF55-20CA39B21279": {
+          "name": "desktop/EN/11) C1 Caption/left/disabled"
+        },
+        "A926C953-0DD8-46CF-816D-7464D49995D7": {
+          "name": "desktop/HE/11) C1 Caption/center/primary"
+        },
+        "2BBE6792-5049-4D93-9290-2B86C36F3B83": {
+          "name": "desktop/HE/11) C1 Caption/right/light"
+        },
+        "9B3D53FA-ECB8-49AC-9680-9946074DD0FD": {
+          "name": "desktop/HE/16) links/M/center/primary"
+        },
+        "E370B33F-4503-4639-947C-98A5A99B8378": {
+          "name": "desktop/EN/10) P2 Paragraph/center/success"
+        },
+        "7F46FF52-9BA9-46D8-A3AD-19D786A0E171": {
+          "name": "desktop/HE/10) P2 Paragraph/center/attention"
+        },
+        "9111C019-C9DA-4324-9EEC-9A6156CA62F1": {
+          "name": "desktop/HE/16) links/S/left/primary"
+        },
+        "1BC8AB38-C28C-46B9-9AF5-62B92FBDA5F0": {
+          "name": "desktop/HE/6) H6 Headline/center/dark "
+        },
+        "77F11E68-53E7-4960-A5F9-EC807FC07EC9": {
+          "name": "desktop/HE/13) small/left/disabled"
+        },
+        "04C1B032-FEB5-4915-901A-77A860768AAE": {
+          "name": "desktop/EN/13) small/left/disabled"
+        },
+        "3B0A0A10-BFA7-4616-8A8E-A264B48034FB": {
+          "name": "desktop/HE/14) tiny/center/dark"
+        },
+        "46A30AF8-2827-4757-B8F4-434995F826CC": {
+          "name": "desktop/HE/16) links/S/right/primary-hover"
+        },
+        "E16D8D9E-6681-4513-B06D-3A133B26F253": {
+          "name": "desktop/EN/16) links/L/left/link-active"
+        },
+        "09CDD3A4-E6F6-4470-A6D7-0C533FE13F9B": {
+          "name": "desktop/HE/16) links/M/right/primary"
+        },
+        "4A51693B-CC5A-4814-80C3-49A4E47BE395": {
+          "name": "desktop/EN/7) subtitle 1/left/secondary"
+        },
+        "9D8428D2-2443-4498-940B-A2BB9D75C348": {
+          "name": "desktop/HE/14) tiny/left/disabled"
+        },
+        "C24AB21E-AB75-4050-8A0D-144E28D6973A": {
+          "name": "desktop/EN/16) links/L/center/primary"
+        },
+        "B599DFB9-0303-4675-BD84-89C03DE85627": {
+          "name": "desktop/HE/1) H6 Headline/center/disabled"
+        },
+        "84C0C5C0-13E9-4E4C-9E8E-77A662DA53A7": {
+          "name": "desktop/EN/16) links/L/right/secondary"
+        },
+        "EFA7F5D7-EE99-4C4C-BD5B-2585F760B913": {
+          "name": "desktop/HE/1) H6 Headline/right/dark"
+        },
+        "C704F49B-0EE3-4029-BA51-B6B81AFDD8BF": {
+          "name": "desktop/EN/16) links/breadcrumbs/hover"
+        },
+        "90C80A67-BDC7-4C06-BE3D-8DFB4A724D2C": {
+          "name": "desktop/EN/5) H5 Headline/center/secondary"
+        },
+        "7CE3F92D-AEF7-49C7-91D7-9E13041626E8": {
+          "name": "desktop/HE/13) small/center/success"
+        },
+        "A05ABC93-C926-4349-A51E-C319CB4B6784": {
+          "name": "desktop/HE/9) P1 Paragraph/center/success"
+        },
+        "D4F29AD0-1079-4CF2-8950-BDE5081F6F62": {
+          "name": "desktop/EN/11) C1 Caption/center/light"
+        },
+        "6C028017-8261-4AEB-9897-F8DD07D34375": {
+          "name": "desktop/EN/14) tiny/center/light"
+        },
+        "9EEA48E7-55CD-4982-BBDC-C597892F62AE": {
+          "name": "desktop/EN/1) H6 Headline/left/secondary"
+        },
+        "CABD02FB-167A-4670-BCF3-C636D7E77689": {
+          "name": "desktop/HE/13) small/center/primary"
+        },
+        "84CD398D-4DE1-4394-AE7A-C82C7EA6B2EA": {
+          "name": "desktop/EN/17) buttons/right/primary"
+        },
+        "A4ADAF1C-8DC6-4672-B2A4-C2D7FCDD6036": {
+          "name": "desktop/EN/11) C1 Caption/right/disabled"
+        },
+        "BE129CF0-3168-4F04-BE87-1FA042788449": {
+          "name": "desktop/EN/9) P1 Paragraph/right/light"
+        },
+        "9DCEBDE8-6036-47A7-8A90-1D246F33A28E": {
+          "name": "desktop/EN/16) links/L/right/light-underline  "
+        },
+        "08568E0C-6BCB-4C8F-A870-CD9FD7F113D9": {
+          "name": "desktop/EN/12) C2 Caption/right/dark"
+        },
+        "B0E80D03-3EE1-4C4C-93F6-9BFEA6AA90E4": {
+          "name": "desktop/HE/13) small/left/dark"
+        },
+        "7743B5C8-8555-4867-A5DA-F583FDC6BA01": {
+          "name": "desktop/EN/16) links/M/right/light "
+        },
+        "551E32F2-C9E3-4D1D-9142-0399B8341467": {
+          "name": "desktop/HE/11) C1 Caption/right/success"
+        },
+        "97C3665F-29BD-4B93-8CC5-76B1C7EE5424": {
+          "name": "desktop/EN/3) H3 Headline/right/dark"
+        },
+        "74C5FD11-21F9-4A87-9A98-2A38E80F0732": {
+          "name": "desktop/EN/12) C2 Caption/right/light"
+        },
+        "7FA5CADE-F026-4190-951F-638DC54831D2": {
+          "name": "desktop/EN/6) H6 Headline/left/primary"
+        },
+        "313E448D-82DD-4229-BB36-351B843F2CED": {
+          "name": "desktop/HE/4) H4 Headline/right/light"
+        },
+        "C5F09BAD-AF7A-4473-9354-45E5318EB0AA": {
+          "name": "desktop/HE/5) H5 Headline/center/success"
+        },
+        "13387E58-404A-43D4-9332-A5C395EC0344": {
+          "name": "desktop/HE/4) H4 Headline/left/dark"
+        },
+        "4D46D6F5-99CC-45D9-A52F-C96F07D4F6B8": {
+          "name": "desktop/HE/10) P2 Paragraph/left/secondary"
+        },
+        "EE2B11A4-AB1B-4632-BA02-71FB57EB3F9D": {
+          "name": "desktop/EN/12) C2 Caption/right/success"
+        },
+        "CDF0ACCF-7618-4055-80D7-60CEDA3913BA": {
+          "name": "desktop/EN/16) links/M/left/link-active"
+        },
+        "784B3A54-FB21-43BD-88D8-BDA98A1A0D37": {
+          "name": "desktop/HE/14) tiny/center/primary"
+        },
+        "1FE48048-138B-4992-9713-E260C7C0A21A": {
+          "name": "desktop/EN/10) P2 Paragraph/center/attention"
+        },
+        "999EE8A9-F42F-4EF0-8879-D31AC5515E58": {
+          "name": "desktop/HE/16) links/L/left/primary"
+        },
+        "4E7E6D03-34EF-472B-B35E-AE6F7AEA6092": {
+          "name": "desktop/EN/9) P1 Paragraph/right/dark"
+        },
+        "B89CE966-BF70-4A7D-BCE6-EB29C5FA3B3C": {
+          "name": "desktop/EN/14) tiny/left/secondary"
+        },
+        "2E350326-4C15-4B0A-BEF5-1E89895B2262": {
+          "name": "desktop/EN/10) P2 Paragraph/right/success"
+        },
+        "C2C4DDDD-6D39-4F4D-BB0B-B2913C33B09C": {
+          "name": "desktop/HE/13) small/right/secondary"
+        },
+        "61A7F47D-BF64-4F4A-BB7B-213B1C9F1065": {
+          "name": "desktop/EN/7) subtitle 1/center/secondary"
+        },
+        "A93E970C-6839-48C6-A7D3-9EF0DD2853A1": {
+          "name": "desktop/EN/3) H3 Headline/center/secondary"
+        },
+        "D7CAF165-0D57-4F58-ACCC-9E6BA154F16E": {
+          "name": "desktop/HE/7) subtitle 1/center/success"
+        },
+        "0ED86BC4-01D2-49ED-846D-5095D9EF75E3": {
+          "name": "desktop/HE/16) links/M/right/primary-hover"
+        },
+        "926C718C-A895-4A93-861D-09C939FCC399": {
+          "name": "desktop/EN/10) P2 Paragraph/right/disabled"
+        },
+        "D8C89115-00D6-44A6-AAD9-8AB194068905": {
+          "name": "desktop/EN/16) links/M/right/secondary-hover"
+        },
+        "D57E9EDB-4FAA-4EB5-A98E-D4C31779506E": {
+          "name": "desktop/HE/9) P1 Paragraph/center/light"
+        },
+        "764C76C8-D97D-40BD-8BB0-A254E446104C": {
+          "name": "desktop/HE/11) C1 Caption/right/disabled"
+        },
+        "A00C7BDB-9CDE-42D1-A48C-16998E1B4465": {
+          "name": "desktop/EN/11) C1 Caption/center/dark"
+        },
+        "AC7E2D04-C95A-4B7A-93C5-0E48F2E8BB68": {
+          "name": "desktop/HE/16) links/L/right/active-link"
+        },
+        "0A184AB5-02B1-40DC-B135-76005D1E9173": {
+          "name": "desktop/HE/10) P2 Paragraph/right/dark"
+        },
+        "BBEBFC54-1231-49CC-97F1-9DD12317F61B": {
+          "name": "desktop/HE/3) H3 Headline/left/dark"
+        },
+        "F8D68FFE-47C5-4B37-BF65-CEBD6AB583FC": {
+          "name": "desktop/HE/11) C1 Caption/left/primary"
+        },
+        "EE658537-86EC-4597-9EA5-EE7DFC665211": {
+          "name": "desktop/HE/7) subtitle 1/left/secondary"
+        },
+        "44DD8B92-C19F-4B39-8416-19629563C863": {
+          "name": "desktop/HE/16) links/L/left/light-hover"
+        },
+        "EACC734F-B57A-4A5C-AAF4-B46393B86892": {
+          "name": "desktop/EN/14) tiny/center/attention"
+        },
+        "6BB31BD3-2171-4654-9729-CD3A8E87E70B": {
+          "name": "desktop/EN/5) H5 Headline/right/primary"
+        },
+        "FE6D85D5-8704-4C21-9593-084AE9027117": {
+          "name": "desktop/EN/3) H3 Headline/left/primary"
+        },
+        "C1C22419-2558-4E34-B349-083407F3BDAE": {
+          "name": "desktop/EN/3) H3 Headline/left/light"
+        },
+        "17677DD8-8904-4859-9D6F-B18313D3DBBB": {
+          "name": "desktop/HE/16) links/S/center/secondary-hover"
+        },
+        "0D8F3DAB-3AC5-4C48-9C56-FFA814128370": {
+          "name": "desktop/HE/16) links/L/left/secondary"
+        },
+        "3370AEBC-2EA6-49A3-B1FF-4186D578CD9A": {
+          "name": "desktop/HE/5) H5 Headline/right/light"
+        },
+        "1955832C-611D-4EB3-9414-6E90CCE4BFA1": {
+          "name": "desktop/EN/15) placeholder/reg/placeholder/right/default"
+        },
+        "16F2B0F6-4DE8-42FF-8D9E-56EE414B2A8F": {
+          "name": "desktop/HE/1) H6 Headline/center/primary"
+        },
+        "0A8077C5-B814-416F-A68C-EE5C23089D4E": {
+          "name": "desktop/EN/2) H2 Headline/left/secondary"
+        },
+        "2A54F03F-91A8-4ED2-9BA6-875E1A65A62B": {
+          "name": "desktop/HE/5) H5 Headline/center/secondary"
+        },
+        "89E7F974-FB10-4F91-A52A-3E034CF4C779": {
+          "name": "desktop/HE/16) links/S/center/disabled-link"
+        },
+        "15261F52-AD1C-4D05-A108-87B5CACC6B16": {
+          "name": "desktop/EN/5) H5 Headline/left/disabled"
+        },
+        "13E2186C-EB96-4A77-9EFB-12607DB1C043": {
+          "name": "desktop/EN/8) subtitle 2/center/primary"
+        },
+        "99BFBACD-B1C4-485C-B557-21DBEF84DB4C": {
+          "name": "desktop/HE/16) links/L/right/light"
+        },
+        "DCDF3AD5-3D79-4249-9591-34E084B60B5C": {
+          "name": "desktop/HE/16) links/M/right/active-link"
+        },
+        "74A173F2-FA32-49B5-9787-9159109881AE": {
+          "name": "desktop/EN/11) C1 Caption/left/light"
+        },
+        "8441D243-E00A-4D8A-89FF-D46C96F3BB69": {
+          "name": "desktop/HE/9) P1 Paragraph/left/secondary"
+        },
+        "2E3F0BD8-74F4-4F6B-A059-88B985F92233": {
+          "name": "desktop/HE/12) C2 Caption/center/primary"
+        },
+        "E9B02F74-D6FF-42DF-A60A-FAC004D377F9": {
+          "name": "desktop/HE/3) H3 Headline/center/secondary"
+        },
+        "26FDFF63-762E-4C80-86D6-FD052D61471F": {
+          "name": "desktop/EN/11) C1 Caption/center/success"
+        },
+        "9C3B4F53-FD49-4277-882F-99FBB52C94E3": {
+          "name": "desktop/EN/13) small/left/primary"
+        },
+        "C824FC5E-E2DB-46FC-8C19-45B3A4A2B1F6": {
+          "name": "desktop/EN/3) H3 Headline/center/dark"
+        },
+        "C445C013-5FCF-49B9-89FD-E0EAFAB58F85": {
+          "name": "desktop/EN/11) C1 Caption/left/primary"
+        },
+        "14420FFA-6430-41C4-873F-896AF912DC4E": {
+          "name": "desktop/HE/10) P2 Paragraph/right/secondary"
+        },
+        "7FB4DB68-5861-4894-A141-5F422DAFC266": {
+          "name": "desktop/HE/7) subtitle 1/right/dark"
+        },
+        "75F5B20D-E122-44B3-A27D-3E4D289CC543": {
+          "name": "desktop/HE/7) subtitle 1/center/disabled"
+        },
+        "F037D7BB-5817-4803-9130-9E2137B45E3F": {
+          "name": "desktop/EN/16) links/L/right/link-active"
+        },
+        "22CDAC14-E9D4-43C2-9074-92629151D4CC": {
+          "name": "desktop/HE/8) subtitle 2/center/dark"
+        },
+        "C164330C-FBEF-430C-9FC1-55C76FFE51E5": {
+          "name": "desktop/EN/3) H3 Headline/center/primary"
+        },
+        "D24F91D7-F69A-4165-BC7D-6E542749C6D7": {
+          "name": "desktop/EN/13) small/center/dark"
+        },
+        "1BAF26A7-867D-4B52-B8E2-8C797F9BDE78": {
+          "name": "desktop/HE/6) H6 Headline/left/disabled "
+        },
+        "FC7B94F7-D5DD-4A3C-880C-C66F35742C02": {
+          "name": "desktop/HE/10) P2 Paragraph/center/disabled"
+        },
+        "AB9C7A0F-85FE-4FF5-B60E-7CE4D3EBB8C6": {
+          "name": "desktop/HE/10) P2 Paragraph/right/success"
+        },
+        "43678CEF-7542-4458-B172-33741510A4B0": {
+          "name": "desktop/HE/6) H6 Headline/left/dark "
+        },
+        "8C9DCD94-C5C9-44A4-8D64-4FD227E638E3": {
+          "name": "desktop/EN/7) subtitle 1/center/primary"
+        },
+        "5965ED93-005D-4C19-8028-A4DBA9F8840A": {
+          "name": "desktop/HE/16) links/L/center/light"
+        },
+        "13154784-3735-4711-AF12-6B46FCECD0CD": {
+          "name": "desktop/EN/16) links/S/right/secondary-hover"
+        },
+        "A94B45D9-3DA1-4B9C-B2C8-3266486DBF64": {
+          "name": "desktop/EN/17) buttons/center/primary"
+        },
+        "FBE3D4A4-FC05-457B-8187-B4E6213360BB": {
+          "name": "desktop/HE/8) subtitle 2/center/success"
+        },
+        "D4638A45-AE9B-420E-96CB-C0D9B6EC69C6": {
+          "name": "desktop/EN/8) subtitle 2/right/attention"
+        },
+        "6882D388-CDD9-49B6-969D-6D41FAF10C15": {
+          "name": "desktop/HE/9) P1 Paragraph/right/primary"
+        },
+        "152C97AC-D440-4FF6-B6CC-AC0D0A617C78": {
+          "name": "desktop/HE/7) subtitle 1/center/light"
+        },
+        "1C58622B-5D74-4575-9303-29757CE4F871": {
+          "name": "desktop/EN/6) H6 Headline/right/dark"
+        },
+        "326EA020-C28F-4E5D-B5B6-E904A8D3F6E4": {
+          "name": "desktop/EN/5) H5 Headline/center/light"
+        },
+        "B902B261-0E5B-4DE4-BCD5-7A2E1CA3995B": {
+          "name": "desktop/HE/9) P1 Paragraph/right/light"
+        },
+        "1DC98A55-44FD-41CE-AFBF-65D79901EC67": {
+          "name": "desktop/HE/10) P2 Paragraph/right/light"
+        },
+        "D23C907B-FA17-4496-BDC7-6268746BD7A1": {
+          "name": "desktop/EN/5) H5 Headline/left/secondary"
+        },
+        "3D8841E6-7668-4A4C-AFA7-41A86EB9FF37": {
+          "name": "desktop/HE/1) H6 Headline/left/disabled"
+        },
+        "EA49FE12-8786-4B9B-8FFF-8A4C327E1CF4": {
+          "name": "desktop/EN/16) links/L/left/light  "
+        },
+        "8D93E08F-A05C-4626-9C78-772CEC35A494": {
+          "name": "desktop/EN/8) subtitle 2/right/primary"
+        },
+        "E6ACE917-513A-431C-A42E-C120EEBF5E05": {
+          "name": "desktop/HE/16) links/M/left/light"
+        },
+        "7BDAD969-E1A2-44C2-8DB1-22FAB69E5B7E": {
+          "name": "desktop/EN/16) links/M/left/secondary-hover"
+        },
+        "9221DE9A-26C3-4BC7-A7C1-DC7ABFEC97BD": {
+          "name": "desktop/HE/16) links/L/center/secondary"
+        },
+        "0B43FBE6-08C7-426D-8CCA-2D756845FBA4": {
+          "name": "desktop/EN/16) links/S/center/secondary-hover"
+        },
+        "9DCCAA7E-637E-4019-98CA-48187885A03B": {
+          "name": "desktop/HE/9) P1 Paragraph/center/dark"
+        },
+        "AE356B94-316B-43FA-9EF1-9A13F9CC29B6": {
+          "name": "desktop/EN/12) C2 Caption/left/success"
+        },
+        "9260941D-D2EC-4C0B-B76E-D3B47E98A122": {
+          "name": "desktop/EN/16) links/L/center/light-underline  "
+        },
+        "86DEAD9E-2D00-42F0-98EF-6E0D6C1BE23A": {
+          "name": "desktop/EN/13) small/left/attention"
+        },
+        "39A36A0D-34CB-4928-B534-39B9DB85DB8D": {
+          "name": "desktop/EN/14) tiny/right/secondary"
+        },
+        "91EDA423-13FC-4C6C-8B16-0E97F25D8DA4": {
+          "name": "desktop/EN/10) P2 Paragraph/left/success"
+        },
+        "C0BDF8F6-CC90-42E6-A654-CC5ACD0B8DD6": {
+          "name": "desktop/HE/16) links/M/left/primary-hover"
+        },
+        "52754F66-8E1A-43FB-968E-B260C984A08B": {
+          "name": "desktop/EN/10) P2 Paragraph/left/disabled"
+        },
+        "6F6975DA-03DB-450D-823E-9815F3EAB1C0": {
+          "name": "desktop/HE/16) links/L/right/disabled-link"
+        },
+        "A2C49B78-1E8D-47FD-BE12-077E6EDA2037": {
+          "name": "desktop/EN/12) C2 Caption/center/disabled"
+        },
+        "4C317F87-76AC-485E-A39B-7E0C5721DC94": {
+          "name": "desktop/HE/16) links/S/right/secondary"
+        },
+        "3E32DABC-1C34-45FD-9AAA-AA570BDA7FB2": {
+          "name": "desktop/HE/3) H3 Headline/center/light"
+        },
+        "95AC0BA0-60AD-47E2-B284-03E2C414692C": {
+          "name": "desktop/EN/11) C1 Caption/right/primary"
+        },
+        "871A9D80-E911-445A-84C4-B06172CF2FEF": {
+          "name": "desktop/EN/16) links/M/left/disabled "
+        },
+        "5358A9CC-FF26-42B9-A680-95C51ABB1C93": {
+          "name": "desktop/EN/9) P1 Paragraph/left/dark"
+        },
+        "D2944803-30D4-4F51-BAB1-F0E7A9CDA1CF": {
+          "name": "desktop/EN/14) tiny/left/disabled"
+        },
+        "C1788327-0298-4AB1-8AA6-82ED57494EA6": {
+          "name": "desktop/HE/8) subtitle 2/right/disabled"
+        },
+        "FDD88071-3211-402B-A882-94EAE3CC444A": {
+          "name": "desktop/HE/10) P2 Paragraph/right/disabled"
+        },
+        "6ADCFD00-02E7-4E49-8F98-FE5F6C573CC4": {
+          "name": "desktop/EN/13) small/center/attention"
+        },
+        "1A09C9D9-FB50-4295-86B0-F0CC02C8E169": {
+          "name": "desktop/HE/16) links/L/left/primary-hover"
+        },
+        "C0A20DFF-877A-4E30-9E3B-DA2A2EC99546": {
+          "name": "desktop/HE/2) H2 Headline/center/dark"
+        },
+        "5574147B-A0D0-4B85-82E2-95D317B98456": {
+          "name": "desktop/HE/8) subtitle 2/right/secondary"
+        },
+        "27918144-B9EE-4B71-B4DD-D5E5CFA1B3B2": {
+          "name": "desktop/HE/16) links/M/right/secondary-hover"
+        },
+        "96EE063E-F79B-45B8-87D1-2F8D57D9130D": {
+          "name": "desktop/EN/9) P1 Paragraph/right/primary"
+        },
+        "0E5975A1-9794-4DB2-A35D-77560A1CEA6C": {
+          "name": "desktop/EN/1) H6 Headline/right/dark"
+        },
+        "00FF4007-AFA4-4177-83F0-D90AC65E58E0": {
+          "name": "desktop/HE/17) buttons/left/light"
+        },
+        "A1F294F2-A75A-4A34-B1AA-441D60ED0A44": {
+          "name": "desktop/EN/14) tiny/left/primary"
+        },
+        "8174589F-7ADE-4A93-AD65-4A9F68A17516": {
+          "name": "desktop/HE/16) links/M/left/active-link"
+        },
+        "F72E61AF-71EE-4BF9-BD34-15986C413458": {
+          "name": "desktop/EN/17) buttons/right/light"
+        },
+        "E230FC2A-CDD4-4F55-93DE-02CE4F156A8E": {
+          "name": "desktop/EN/8) subtitle 2/center/dark"
+        },
+        "EAEEDE4C-2D56-4421-84AA-1DE0953FABFD": {
+          "name": "desktop/EN/6) H6 Headline/left/disabled"
+        },
+        "FD088704-E27B-43B6-8314-BD625E6878B2": {
+          "name": "desktop/EN/1) H6 Headline/center/disabled"
+        },
+        "8B397CA4-F93A-44F1-A938-1DFDDE86DD7B": {
+          "name": "desktop/HE/11) C1 Caption/center/secondary"
+        },
+        "706B7EEB-B823-453A-9A62-09F1624468AD": {
+          "name": "desktop/EN/5) H5 Headline/left/primary"
+        },
+        "D81CEF45-1DAE-4A6C-8576-0C98911AAABD": {
+          "name": "desktop/HE/16) links/S/left/primary-hover"
+        },
+        "F154CE7C-F516-4AD7-B70B-4B914AB73AAC": {
+          "name": "desktop/HE/16) links/L/right/primary"
+        },
+        "66D36AE1-4D20-4893-BC2F-CEE8F522E33A": {
+          "name": "desktop/EN/5) H5 Headline/center/primary"
+        },
+        "12DE557C-E755-450A-BE41-4D1C282993E5": {
+          "name": "desktop/HE/16) links/M/right/light"
+        },
+        "533B61C0-C55D-469C-8D20-55F961AFC1E9": {
+          "name": "desktop/HE/13) small/center/secondary"
+        },
+        "8BA891AA-6E33-46E7-95BB-1231036E7318": {
+          "name": "desktop/EN/13) small/left/light"
+        },
+        "DE09E5A1-1AE1-4C19-B76D-A734EFDE9AF0": {
+          "name": "desktop/EN/17) buttons/left/dark"
+        },
+        "E6F857EE-BFF6-42C1-AE6F-652C70050800": {
+          "name": "desktop/EN/3) H3 Headline/left/disabled"
+        },
+        "3009CDB2-9C32-4975-878D-F4A90A36EB46": {
+          "name": "desktop/HE/5) H5 Headline/center/primary"
+        },
+        "73D5C022-9107-4D1C-852F-7C3BCE88E6EA": {
+          "name": "desktop/EN/6) H6 Headline/center/secondary"
+        },
+        "58B077AD-2131-40DF-8E3E-F1003DDD5D21": {
+          "name": "desktop/EN/3) H3 Headline/left/dark"
+        },
+        "750837FE-ED6D-4110-9528-4042DB6AA14B": {
+          "name": "desktop/EN/4) H4 Headline/right/primary"
+        },
+        "DF4949FB-1BBF-4E7B-A65F-DE77F7CB1D02": {
+          "name": "desktop/HE/3) H3 Headline/right/primary"
+        },
+        "1DBC27FC-4DA8-46B8-B263-6B123261BE95": {
+          "name": "desktop/HE/16) links/L/right/secondary"
+        },
+        "3406342D-AC83-4974-A415-BA1AB8093A89": {
+          "name": "desktop/EN/15) placeholder/small/placeholder/right/default"
+        },
+        "BC620C37-A9BE-4C4E-8BC1-6D3DE81AB2DA": {
+          "name": "desktop/HE/12) C2 Caption/center/attention"
+        },
+        "EEAD79CF-BB67-4870-9249-7C40C539FB12": {
+          "name": "desktop/HE/8) subtitle 2/right/primary"
+        },
+        "BF352C45-8A06-4FB2-AC37-7F52364F5B78": {
+          "name": "desktop/EN/8) subtitle 2/left/secondary"
+        },
+        "F3BEFED8-C763-4241-ACE2-3CB85D5BCA78": {
+          "name": "desktop/EN/16) links/S/center/secondary"
+        },
+        "5822AE64-FA66-41BF-B8A0-AC273C9DDE63": {
+          "name": "desktop/HE/3) H3 Headline/center/dark"
+        },
+        "44CB8359-768C-4316-8EDD-1A7C1F942B1E": {
+          "name": "desktop/EN/16) links/S/center/primary-hover"
+        },
+        "9275FBAF-70A1-4A0A-971E-0EA275F3CC47": {
+          "name": "desktop/HE/12) C2 Caption/left/attention"
+        },
+        "48E0F2AE-9006-44EA-9A84-162BB035F09D": {
+          "name": "desktop/HE/13) small/left/light"
+        },
+        "7E2CC9B2-18C6-46BB-8E53-DF9A8F71EBE7": {
+          "name": "desktop/HE/13) small/right/light"
+        },
+        "E9F4742E-A92F-4D6F-9559-B725E2840804": {
+          "name": "desktop/EN/7) subtitle 1/center/dark"
+        },
+        "D86E8CA9-5036-4B01-8AD6-76D79C45791E": {
+          "name": "desktop/HE/16) links/breadcrumbsleft/selected"
+        },
+        "2513748D-B943-45F9-806C-57DF1749D8FE": {
+          "name": "desktop/EN/2) H2 Headline/left/primary"
+        },
+        "449089FC-B7D6-4B6F-A284-EF86D8E1DAC8": {
+          "name": "desktop/EN/8) subtitle 2/right/light"
+        },
+        "6E3A1363-D09F-46D6-9C91-CD2B58EEB48B": {
+          "name": "desktop/HE/10) P2 Paragraph/center/secondary"
+        },
+        "4FE71E28-94AF-4F84-B03F-AE066C691825": {
+          "name": "desktop/HE/16) links/M/center/light-hover"
+        },
+        "2FF69D08-1AA1-472B-A55D-AA6BA4372157": {
+          "name": "desktop/HE/16) links/S/center/primary-hover"
+        },
+        "CB9526B0-7587-4FBF-B9CD-87879C26F260": {
+          "name": "desktop/HE/13) small/center/light"
+        },
+        "5FA21C01-8F4A-4CDA-BB29-D8D75B613E85": {
+          "name": "desktop/HE/17) buttons/left/light"
+        },
+        "144AA7E0-DD93-46B1-A4A2-B79358F5E387": {
+          "name": "desktop/HE/17) buttons/center/light"
+        },
+        "C924091D-430C-43CF-80A7-D820FA2BD2F9": {
+          "name": "desktop/HE/17) buttons/right/light"
+        },
+        "A53E0339-164E-4180-ACDC-FC24140BC977": {
+          "name": "desktop/HE/2) H2 Headline/left/primary"
+        },
+        "433966FE-F46A-4D76-8BF6-640DC1B9AFCC": {
+          "name": "desktop/HE/16) links/M/left/primary"
+        },
+        "4DDEEDAF-ED55-4FED-AA3A-9642CC0406B2": {
+          "name": "desktop/EN/16) links/S/left/secondary-hover"
+        },
+        "5D75A377-E923-4577-AC25-D7D0B98BC656": {
+          "name": "desktop/EN/14) tiny/right/light"
+        },
+        "DA240B91-57F7-4A82-9A5C-6CFA70DEBFB6": {
+          "name": "desktop/HE/13) small/right/dark"
+        },
+        "2CF27A8B-371B-4D95-B890-70D41A2677CD": {
+          "name": "desktop/EN/9) P1 Paragraph/left/attention"
+        },
+        "91689F9B-A9AC-45F7-B293-0BD3AEC7B383": {
+          "name": "DS-⛔️/header"
+        },
+        "507520AE-3FE8-4A86-BFAE-EB95E859CEAF": {
+          "name": "desktop/HE/16) links/S/right/light-hover"
+        },
+        "70D77A70-A174-45E4-8417-8D26597080E9": {
+          "name": "desktop/EN/10) P2 Paragraph/right/dark"
+        },
+        "F2AAF5E4-A13F-4DE3-99B5-C31475C875C9": {
+          "name": "desktop/EN/7) subtitle 1/left/disabled"
+        },
+        "6E8D701E-18E7-4C8D-AC01-D92B5CA53786": {
+          "name": "desktop/HE/17) buttons/left/dark"
+        },
+        "7698BDA6-429C-47AE-9AC9-3CB9BF11719F": {
+          "name": "desktop/EN/2) H2 Headline/center/disabled"
+        },
+        "B17467EF-311B-4ADB-BDFA-343FAEACD90E": {
+          "name": "desktop/HE/16) links/L/left/disabled-link"
+        },
+        "1CC15C80-CE0D-402B-80F9-AC0A66088CBA": {
+          "name": "desktop/HE/5) H5 Headline/center/disabled"
+        },
+        "0A18E3FF-AE01-4775-832B-9F4505666220": {
+          "name": "desktop/HE/16) links/L/center/light-hover"
+        },
+        "EC89D0C0-AFB6-46F3-BBA5-DFE87D1D73AD": {
+          "name": "desktop/HE/16) links/M/right/disabled-link"
+        },
+        "1A3A03A5-82FD-4115-AEFE-D16AD61F6AF7": {
+          "name": "desktop/HE/10) P2 Paragraph/left/light"
+        },
+        "91997F46-27C1-42E6-BD40-6949A5CF7797": {
+          "name": "desktop/EN/13) small/right/primary"
+        },
+        "1751C902-DDF0-4E1D-90E6-B50835B7CB5C": {
+          "name": "desktop/EN/5) H5 Headline/left/dark"
+        },
+        "2D8FE7AD-87A7-43FF-9E3B-64972C23931C": {
+          "name": "desktop/EN/4) H4 Headline/right/disabled"
+        },
+        "710D4299-5D16-40F5-ABAD-BAD74270F09B": {
+          "name": "desktop/EN/6) H6 Headline/right/disabled"
+        },
+        "1C65257D-5630-478E-8CA3-64D44A8B35C6": {
+          "name": "desktop/EN/3) H3 Headline/left/secondary"
+        },
+        "459AA77E-5FE2-4E5C-837E-951CF91E3363": {
+          "name": "desktop/EN/13) small/center/primary"
+        },
+        "22CC72AA-E0B2-4C0F-8EB6-D74DF40ACFF8": {
+          "name": "desktop/EN/16) links/M/center/light "
+        },
+        "42C07CE6-D68C-4F32-A2C3-241ED153B038": {
+          "name": "desktop/HE/10) P2 Paragraph/right/attention"
+        },
+        "B79E1633-E400-4376-AEDB-2B31BC61DD95": {
+          "name": "desktop/HE/14) tiny/right/primary"
+        },
+        "F55DA749-A9FA-4AB3-9AC5-28BDB9FC43B2": {
+          "name": "desktop/HE/3) H3 Headline/right/secondary"
+        },
+        "EE5A4E07-F55C-4D8F-A038-3D62444BD928": {
+          "name": "desktop/EN/16) links/L/center/link-active"
+        },
+        "AAAA3B00-6F52-46D3-8616-60724DFDFFCE": {
+          "name": "desktop/EN/12) C2 Caption/center/dark"
+        },
+        "D2B62BA6-00D7-45C5-BF23-A8470F584D99": {
+          "name": "desktop/EN/2) H2 Headline/left/dark"
+        },
+        "A6B5C1BB-CC7B-4375-A44F-46F803FE1A6B": {
+          "name": "desktop/EN/13) small/right/disabled"
+        },
+        "252CFD72-F478-4405-8A63-FAD02442670C": {
+          "name": "desktop/HE/1) H6 Headline/left/dark"
+        },
+        "D78F77EC-B141-4A0E-BE37-A2A28A5436F2": {
+          "name": "desktop/HE/9) P1 Paragraph/center/secondary"
+        },
+        "9B79FF75-6890-4EB0-9631-0F71D280407A": {
+          "name": "desktop/HE/4) H4 Headline/right/disabled"
+        },
+        "F194FB78-9545-4224-82F6-01684EFCA976": {
+          "name": "desktop/EN/1) H6 Headline/left/dark"
+        },
+        "1A1BFBAF-FC83-4599-9320-698322A9808E": {
+          "name": "desktop/HE/14) tiny/center/disabled"
+        },
+        "0F23F986-1A28-45AF-B592-C547E64DBFC2": {
+          "name": "desktop/EN/3) H3 Headline/center/disabled"
+        },
+        "10DC9C65-288A-418B-8C3C-B98A0D616A75": {
+          "name": "desktop/EN/10) P2 Paragraph/right/primary"
+        },
+        "1808CA34-DD59-41DC-93BE-BEC7B89106BB": {
+          "name": "desktop/HE/11) C1 Caption/center/light"
+        },
+        "35FA3277-D384-49FE-864F-3844B85858BB": {
+          "name": "desktop/EN/7) subtitle 1/center/light"
+        },
+        "3587CFC2-B42B-4BB1-B417-17F561D9E3C9": {
+          "name": "desktop/HE/16) links/S/right/secondary-hover"
+        },
+        "C839AC84-9089-48A7-804F-319231DF8141": {
+          "name": "desktop/EN/16) links/M/left/primary"
+        },
+        "74C2BE47-BE71-4B87-BE66-3A646C73CC27": {
+          "name": "desktop/EN/1) H6 Headline/left/primary"
+        },
+        "BC38F599-0442-43FB-834A-394AC2C22561": {
+          "name": "desktop/EN/1) H6 Headline/left/disabled"
+        },
+        "7D4A9FE6-642A-4C7F-B24E-59AA18DD697F": {
+          "name": "desktop/EN/14) tiny/left/light"
+        },
+        "BECC9419-0C1C-4BF2-A47C-A0E706D37BBB": {
+          "name": "desktop/HE/16) links/breadcrumbsleft/unselected"
+        },
+        "A4F61AF3-5F35-46F4-A3A8-FA3B4621B055": {
+          "name": "desktop/HE/4) H4 Headline/center/secondary"
+        },
+        "6BBB33C3-F678-49E7-9E3C-8BCB4F7F7143": {
+          "name": "desktop/HE/10) P2 Paragraph/center/success"
+        },
+        "39FB009F-532D-40FE-9328-53BE17A0F664": {
+          "name": "desktop/HE/7) subtitle 1/right/secondary"
+        },
+        "52F72EB1-9210-4080-96EA-94C8FAF58598": {
+          "name": "desktop/HE/14) tiny/right/disabled"
+        },
+        "8ECC42B4-9796-4DC8-A36C-E9574DD8C07D": {
+          "name": "desktop/HE/11) C1 Caption/right/dark"
+        },
+        "A0A0175C-B840-4A2A-9D5A-23CAACD9491E": {
+          "name": "desktop/HE/17) buttons/center/light"
+        },
+        "83FC5227-F695-4010-9AD9-3D3AD0379ADB": {
+          "name": "desktop/EN/9) P1 Paragraph/left/disabled"
+        },
+        "AACE359F-5172-4973-B84C-199C76BDA8C7": {
+          "name": "desktop/HE/5) H5 Headline/left/secondary"
+        },
+        "B0BBF35C-61F5-4799-B897-FDD825294630": {
+          "name": "desktop/HE/9) P1 Paragraph/right/attention"
+        },
+        "30549323-B4B6-41E7-911C-E06C2666C8BA": {
+          "name": "desktop/EN/2) H2 Headline/left/light"
+        },
+        "DEB61DBF-32BC-488F-8721-72250BAF5A40": {
+          "name": "desktop/HE/9) P1 Paragraph/center/disabled"
+        },
+        "894FE7BF-006F-45B1-8A02-D726EB4D4B3E": {
+          "name": "desktop/HE/6) H6 Headline/center/primary "
+        },
+        "AD492411-4056-4312-9334-A22FAD39C923": {
+          "name": "desktop/HE/9) P1 Paragraph/left/dark"
+        },
+        "6C1A1E34-037E-4100-907C-5778D8BB00FB": {
+          "name": "desktop/HE/2) H2 Headline/right/secondary"
+        },
+        "90F09AC1-D266-41CB-8D07-93E833910132": {
+          "name": "desktop/HE/17) buttons/right/disabled"
+        },
+        "5B51E383-61B2-4EE0-AB2D-D3A29DD48092": {
+          "name": "desktop/EN/5) H5 Headline/right/dark"
+        },
+        "C6E6E13D-C1E2-4386-BC32-75755FCFAA16": {
+          "name": "desktop/EN/13) small/center/secondary"
+        },
+        "1C1F28EA-AFCD-45B0-B6A7-1FF3376A6CDA": {
+          "name": "desktop/EN/16) links/M/left/light-underline "
+        },
+        "38BAB72D-B78A-4CFF-A980-63379E7C7230": {
+          "name": "desktop/EN/13) small/right/light"
+        },
+        "7019F40B-1D83-4282-B961-C0B2E38A857E": {
+          "name": "desktop/HE/13) small/center/disabled"
+        },
+        "D7D474E7-B96B-4E2C-866F-0565AA51EAAE": {
+          "name": "desktop/HE/8) subtitle 2/left/secondary"
+        },
+        "461194A6-6E9E-43FC-AD0C-95921E11FDEF": {
+          "name": "desktop/EN/11) C1 Caption/center/primary"
+        },
+        "ABC2C2AA-FFE2-42EA-BBD5-C438945EE7D9": {
+          "name": "desktop/HE/6) H6 Headline/center/light "
+        },
+        "F57FB8CD-AA69-40BB-B44C-F082DBEE337F": {
+          "name": "desktop/HE/14) tiny/center/success"
+        },
+        "E6B79AED-A336-40B8-9A4A-901EEFC9F945": {
+          "name": "desktop/HE/12) C2 Caption/center/dark"
+        },
+        "68165EBA-CF61-4D43-80E3-97EAE7809E2A": {
+          "name": "desktop/EN/10) P2 Paragraph/center/disabled"
+        },
+        "6616754B-3DB1-476F-B76C-BE41181C506C": {
+          "name": "desktop/HE/6) H6 Headline/left/primary "
+        },
+        "F91B65E1-D4F6-411B-A895-9004F8D8D1BE": {
+          "name": "desktop/HE/3) H3 Headline/center/disabled"
+        },
+        "F54D47AE-3ED7-4F20-84B2-7AAE5D2B8495": {
+          "name": "desktop/EN/8) subtitle 2/center/light"
+        },
+        "3F70C89D-3927-4619-9C57-B3CF092BB32B": {
+          "name": "desktop/EN/8) subtitle 2/center/secondary"
+        },
+        "D31035BC-CD32-4094-B16F-13D7ECA136C0": {
+          "name": "desktop/EN/16) links/L/center/light  "
+        },
+        "802D39BD-454A-464F-B60B-DEF500AEEDAA": {
+          "name": "desktop/EN/7) subtitle 1/right/attention"
+        },
+        "AA44882E-7012-4181-B6ED-294871D99D6D": {
+          "name": "desktop/HE/1) H6 Headline/right/light"
+        },
+        "6798EEB9-2324-49CF-B7E4-1582988373D2": {
+          "name": "desktop/EN/16) links/S/right/light-underline "
+        },
+        "57581E6B-173F-442B-BB16-8C5475197E33": {
+          "name": "desktop/EN/10) P2 Paragraph/center/secondary"
+        },
+        "73EE1D7B-A18B-4CC0-9527-6B340A80F7AD": {
+          "name": "desktop/HE/2) H2 Headline/left/light"
+        },
+        "66EFA8A4-FDAF-47EB-A074-B47888FA0065": {
+          "name": "desktop/HE/5) H5 Headline/left/attention"
+        },
+        "7A768BAD-AAF7-4D67-8B09-A712107846F4": {
+          "name": "desktop/EN/11) C1 Caption/right/success"
+        },
+        "40F76C9B-824F-4F4D-9449-074DA0FD73F1": {
+          "name": "desktop/HE/17) buttons/left/gray"
+        },
+        "FA826297-59E7-45AA-B53C-FD0135F955FD": {
+          "name": "desktop/EN/7) subtitle 1/center/success"
+        },
+        "DB6019DA-A263-4D12-9EB6-FD707280892D": {
+          "name": "desktop/EN/9) P1 Paragraph/left/secondary"
+        },
+        "246EED6D-2B9F-41A7-AE71-9C0ED148709C": {
+          "name": "desktop/HE/7) subtitle 1/left/attention"
+        },
+        "57654314-CFF8-4420-8FD6-5ED2EDFA1F2C": {
+          "name": "desktop/EN/2) H2 Headline/center/light"
+        },
+        "5314852A-6FF0-48F2-BCEA-807A54BD6D59": {
+          "name": "desktop/HE/12) C2 Caption/left/light"
+        },
+        "ABBAEA28-CFEF-4B93-AF38-4D1048920CDE": {
+          "name": "desktop/HE/16) links/S/center/active-link"
+        },
+        "409987EA-7443-4027-8633-ADA0DDF56AE2": {
+          "name": "desktop/EN/17) buttons/center/secondary"
+        },
+        "C6ED59D2-7EFE-47D9-A275-2417E97B9219": {
+          "name": "desktop/EN/10) P2 Paragraph/left/dark"
+        },
+        "32C4C80B-8CFC-48FF-AF0B-3D2277555C8B": {
+          "name": "desktop/HE/13) small/center/attention"
+        },
+        "3A0A1C47-B69E-414D-9FB5-E42B2825B538": {
+          "name": "desktop/HE/3) H3 Headline/right/light"
+        },
+        "5DB48C86-0F39-4490-B76A-D035F83EF7A2": {
+          "name": "desktop/EN/12) C2 Caption/right/attention"
+        },
+        "465A3670-E0AE-4F25-A843-B3695FDAF399": {
+          "name": "desktop/EN/7) subtitle 1/right/light"
+        },
+        "E24FEC95-4174-4B0E-811A-6358FCAFF12F": {
+          "name": "desktop/EN/12) C2 Caption/right/disabled"
+        },
+        "EB22A979-97C8-4BCF-B5C7-A9E95594AC01": {
+          "name": "desktop/EN/12) C2 Caption/left/primary"
+        },
+        "47ED07B6-A099-42B7-8B70-BBFFFF515286": {
+          "name": "desktop/EN/5) H5 Headline/right/attention"
+        },
+        "4134EEC3-63F6-47BE-B47E-50073C584937": {
+          "name": "desktop/HE/6) H6 Headline/right/secondary "
+        },
+        "CC5C4F73-EB39-4B1F-AA6E-C7638477CF7F": {
+          "name": "desktop/HE/16) links/M/left/secondary-hover"
+        },
+        "36E9F53D-324C-4688-82EC-ED54576AFE3A": {
+          "name": "desktop/EN/9) P1 Paragraph/center/secondary"
+        },
+        "9CDC8ADB-DC33-40C2-A934-54219DE2A94D": {
+          "name": "desktop/EN/9) P1 Paragraph/right/secondary"
+        },
+        "5D1DFBFC-1D33-40FA-AEC1-B8EBC3E47381": {
+          "name": "desktop/HE/11) C1 Caption/center/dark"
+        },
+        "667B800B-1CD3-4807-BE4F-2E9D3D2E3024": {
+          "name": "desktop/HE/7) subtitle 1/right/disabled"
+        },
+        "7D4E79B0-4771-4EBB-ABB0-A681EFEDDB96": {
+          "name": "desktop/EN/9) P1 Paragraph/right/attention"
+        },
+        "F04AA0F3-357F-4639-A900-084605EBC37F": {
+          "name": "desktop/EN/16) links/S/right/light "
+        },
+        "2BB0AF6A-2B19-42D7-83BF-1F0DD4DBD453": {
+          "name": "desktop/EN/11) C1 Caption/right/secondary"
+        },
+        "6431E16B-946E-4B88-9BAA-26514D450455": {
+          "name": "desktop/HE/16) links/L/left/secondary-hover"
+        },
+        "B31EE73B-B316-442B-AFBD-B7699A088147": {
+          "name": "desktop/EN/10) P2 Paragraph/center/dark"
+        },
+        "65FD25F7-F5E0-4235-891A-C99FB1C62000": {
+          "name": "desktop/EN/16) links/S/center/primary"
+        },
+        "3325DEE1-E375-49A5-BE20-2EB7847587F9": {
+          "name": "desktop/EN/16) links/breadcrumbs/disabled"
+        },
+        "C73B342A-F473-4C3F-869F-79369F03AD91": {
+          "name": "desktop/HE/16) links/S/center/light-hover"
+        },
+        "9EEEFFFB-EFFE-4D49-83BB-194A15D42239": {
+          "name": "desktop/HE/14) tiny/center/attention"
+        },
+        "96DE7882-C16B-4F4D-9D9B-822109123C7E": {
+          "name": "desktop/HE/2) H2 Headline/left/dark"
+        },
+        "78B1DAD7-A6E7-413E-ACE8-F44C9C3C22AE": {
+          "name": "desktop/EN/5) H5 Headline/right/secondary"
+        },
+        "58139A20-6547-40EA-BBA0-B90CDE7AB5D4": {
+          "name": "desktop/HE/8) subtitle 2/center/attention"
+        },
+        "5B1690ED-D47D-4426-9883-9371252EA10C": {
+          "name": "desktop/EN/16) links/S/left/light-underline "
+        },
+        "FAAA1843-9FEA-4422-94EC-50B034321EC8": {
+          "name": "desktop/EN/17) buttons/center/disabled"
+        },
+        "BCC34897-7A9D-4E63-B959-E6369877753C": {
+          "name": "desktop/EN/2) H2 Headline/right/primary"
+        },
+        "4AFFE43A-11B1-4692-A2CF-A9BC6E4580F3": {
+          "name": "desktop/EN/1) H6 Headline/left/light"
+        },
+        "3511EE99-9D27-44F2-8E20-0D0C6C482CE7": {
+          "name": "desktop/EN/5) H5 Headline/center/dark"
+        },
+        "D75DB730-0203-46FC-9751-8EBBA7F24008": {
+          "name": "desktop/HE/16) links/M/center/secondary"
+        },
+        "D5BDB832-E0F4-40ED-A154-5562D3177BC7": {
+          "name": "desktop/HE/10) P2 Paragraph/left/success"
+        },
+        "191222D6-0CFF-441F-B87F-2AAADD125816": {
+          "name": "desktop/EN/7) subtitle 1/right/disabled"
+        },
+        "A0A561F0-C1C2-47F8-8417-A6C455A3C217": {
+          "name": "desktop/HE/16) links/L/center/primary"
+        },
+        "223B007C-8B02-4DD3-A66F-265F08B9CF21": {
+          "name": "desktop/EN/16) links/M/left/secondary"
+        },
+        "3F9EAC3F-D890-40D3-80FD-7E97C3BBCF24": {
+          "name": "desktop/HE/16) links/M/left/disabled-link"
+        },
+        "8CEC0D43-946F-4860-899F-C9E27DD2C5B8": {
+          "name": "desktop/EN/12) C2 Caption/left/disabled"
+        },
+        "2CE1B5CB-6243-481E-BBB1-57146102AB38": {
+          "name": "desktop/EN/16) links/L/right/primary-hover"
+        },
+        "F974C79F-4FED-4D6D-ACD1-CFF8A8595FD3": {
+          "name": "desktop/EN/12) C2 Caption/center/secondary"
+        },
+        "F2F10080-FAAE-444C-9AC3-B98607F2D81A": {
+          "name": "desktop/HE/1) H6 Headline/center/light"
+        },
+        "365815D0-6D82-4773-A4E4-30FEA34792C7": {
+          "name": "desktop/EN/14) tiny/center/primary"
+        },
+        "0C473624-340D-4AEC-BC0D-85F3CB97E071": {
+          "name": "desktop/EN/6) H6 Headline/left/light"
+        },
+        "AFC52F51-73CD-4053-8ACE-0A6EFF5AD05A": {
+          "name": "desktop/EN/7) subtitle 1/right/secondary"
+        },
+        "7E0DA362-E43D-44D3-8752-25F8769016A7": {
+          "name": "desktop/HE/16) links/L/left/active-link"
+        },
+        "8BB8FD74-6CD4-446C-9167-8D294B9B9B2F": {
+          "name": "desktop/EN/16) links/M/left/light "
+        },
+        "63361BBA-9EA6-4A6F-BD96-0505C246063F": {
+          "name": "desktop/HE/8) subtitle 2/center/secondary"
+        },
+        "B8A9CE36-E3D5-469F-82BC-358B53A3ADA5": {
+          "name": "desktop/HE/5) H5 Headline/left/primary"
+        },
+        "C5897CC1-4C31-4C0F-A58E-D67855ECE33D": {
+          "name": "desktop/EN/16) links/M/right/light-underline "
+        },
+        "152FC291-1E0D-43E6-AF42-C5D3D1117185": {
+          "name": "desktop/HE/16) links/L/right/light-hover"
+        },
+        "671F12F1-3B12-4F58-9D73-A9686BD0AEF7": {
+          "name": "desktop/HE/10) P2 Paragraph/left/primary"
+        },
+        "3B670D29-E966-4865-837E-7F97675F044F": {
+          "name": "desktop/HE/6) H6 Headline/right/disabled "
+        },
+        "A02E3A30-5A16-4726-9BA6-A8B818A59021": {
+          "name": "desktop/HE/13) small/left/primary"
+        },
+        "56322161-F5C7-4C61-867E-00FC3DDA3AD5": {
+          "name": "desktop/EN/10) P2 Paragraph/left/light"
+        },
+        "CF5EFE34-2382-48EA-9D0A-CEBEEA61C949": {
+          "name": "desktop/EN/15) placeholder/small/placeholder/left/default"
+        },
+        "3E86E072-A834-44B8-9587-4D33FFECC4FF": {
+          "name": "desktop/HE/14) tiny/left/attention"
+        },
+        "8FEB0FF4-7E1A-4D41-A445-DC7AE0AD0E86": {
+          "name": "desktop/EN/5) H5 Headline/center/disabled"
+        },
+        "758BB0DA-2264-41A3-94B1-1662CB591DB0": {
+          "name": "desktop/HE/16) links/S/left/light"
+        },
+        "82AAF536-077F-4974-8746-55C42EED639A": {
+          "name": "desktop/HE/3) H3 Headline/left/disabled"
+        },
+        "9254474B-3C9E-4104-9748-F657A7798729": {
+          "name": "desktop/HE/8) subtitle 2/left/light"
+        },
+        "97D79679-2360-4A0A-9ACF-908E5090C8AB": {
+          "name": "desktop/HE/5) H5 Headline/right/secondary"
+        },
+        "238C841D-CDB3-47E5-82F2-E4AAB5A3A881": {
+          "name": "desktop/HE/5) H5 Headline/left/light"
+        },
+        "F030CA1E-D544-4D1F-BE9C-EA20D7D00267": {
+          "name": "desktop/EN/6) H6 Headline/left/dark"
+        },
+        "472D4294-3FAD-4B0A-883D-76C9EEF7E80A": {
+          "name": "desktop/EN/11) C1 Caption/right/light"
+        },
+        "A9EA89A4-D925-46C0-B5EF-33DCD58A8898": {
+          "name": "desktop/HE/16) links/M/right/light-hover"
+        },
+        "4D905D29-A2D3-41A1-A677-38356DB39BE3": {
+          "name": "desktop/HE/7) subtitle 1/right/light"
+        },
+        "80DF2454-0E71-4DE3-86ED-DD516B73F8F0": {
+          "name": "desktop/EN/17) buttons/center/light"
+        },
+        "23A35689-DBC9-4C37-98AB-2780E34B4739": {
+          "name": "desktop/EN/9) P1 Paragraph/center/disabled"
+        },
+        "7D862537-1DE6-4C13-BC23-CADF2E6FEEA5": {
+          "name": "desktop/HE/16) links/S/left/secondary"
+        },
+        "4A6954CC-E5A7-4D7D-94CE-AC0657F9ACA5": {
+          "name": "desktop/HE/17) buttons/right/light"
+        },
+        "9D7FD380-5308-4F84-97AB-2D989E712557": {
+          "name": "desktop/EN/3) H3 Headline/right/secondary"
+        },
+        "6D1A076E-BE2B-4D0F-B61B-2BB6683365AE": {
+          "name": "desktop/EN/4) H4 Headline/left/dark"
+        },
+        "41FD173F-3BB2-4B35-BDDC-4194DF4BB158": {
+          "name": "desktop/HE/3) H3 Headline/center/primary"
+        },
+        "DEC64C11-64D6-495C-8023-38FDF79BA528": {
+          "name": "desktop/EN/16) links/S/center/disabled "
+        },
+        "93A0BABF-2ED2-417A-B4A1-4FB72EBE5048": {
+          "name": "desktop/EN/17) buttons/left/attention"
+        },
+        "988291D9-994E-4861-BAEE-EFC26B4E62F6": {
+          "name": "desktop/HE/4) H4 Headline/center/light"
+        },
+        "1AED56DE-9D19-4788-BA0B-7BCAFB9FB2AA": {
+          "name": "desktop/EN/11) C1 Caption/left/success"
+        },
+        "2291A108-91D4-4AD4-9C16-BA2CF9122892": {
+          "name": "desktop/HE/4) H4 Headline/center/primary"
+        },
+        "03A707C0-B8C8-476E-800D-EE0A3DDFB823": {
+          "name": "desktop/EN/16) links/L/center/secondary"
+        },
+        "16C42E0A-0C2E-424D-ACC8-0C1DF509C8F4": {
+          "name": "desktop/HE/6) H6 Headline/center/secondary "
+        },
+        "C971A9C6-924A-4EA2-B07D-311B4657D12F": {
+          "name": "desktop/HE/6) H6 Headline/center/disabled "
+        },
+        "C3D4FCD2-F2BF-4FCE-9230-32280F902C88": {
+          "name": "desktop/EN/16) links/M/right/secondary"
+        },
+        "300F759E-DB61-40D4-82A8-D82E49631511": {
+          "name": "desktop/EN/8) subtitle 2/right/disabled"
+        },
+        "81A0D8CE-BEB6-4F08-8C8F-6F562EAFB051": {
+          "name": "desktop/HE/14) tiny/right/light"
+        },
+        "DF36F1B8-3308-46ED-BCA7-21F42C92D295": {
+          "name": "desktop/HE/5) H5 Headline/right/attention"
+        },
+        "76B756E9-2D43-4886-A30B-56E93B96E74D": {
+          "name": "desktop/HE/17) buttons/center/gray"
+        },
+        "ADF92293-7804-4776-858E-CE0F1DCAB685": {
+          "name": "desktop/HE/12) C2 Caption/right/attention"
+        },
+        "B2290FF6-C69E-4A2C-9772-E5F85C3A47D5": {
+          "name": "desktop/EN/7) subtitle 1/left/dark"
+        },
+        "B8841721-B691-4111-865C-2B10FB58A4AC": {
+          "name": "desktop/EN/4) H4 Headline/center/disabled"
+        },
+        "F006B325-B3EB-4882-80E8-649F21D0D266": {
+          "name": "desktop/EN/17) buttons/left/primary"
+        },
+        "6DFE458F-898C-45EA-96E1-54AFF6B3D115": {
+          "name": "desktop/HE/14) tiny/left/success"
+        },
+        "E29CB934-6397-4780-AC79-BC9396437411": {
+          "name": "desktop/HE/8) subtitle 2/left/success"
+        },
+        "FFAC20CD-A89B-45B8-BB34-6CEB425433D3": {
+          "name": "desktop/EN/14) tiny/left/dark"
+        },
+        "571A49CE-930D-4A3C-B05E-B31696C71CE9": {
+          "name": "desktop/EN/4) H4 Headline/left/disabled"
+        },
+        "DFF1068B-D2F9-493A-B2D4-9A1611E4B3FA": {
+          "name": "desktop/HE/3) H3 Headline/left/primary"
+        },
+        "8DB7A354-4702-4855-B54D-62B09F5BA8BA": {
+          "name": "desktop/EN/5) H5 Headline/right/success"
+        },
+        "126F31EF-6358-4184-9751-51963CEBFF42": {
+          "name": "desktop/EN/10) P2 Paragraph/right/attention"
+        },
+        "B6B702C5-FEBA-4AA8-A766-59FE9B51842C": {
+          "name": "desktop/EN/16) links/S/right/primary"
+        },
+        "BB3F9347-A4AF-4CB7-8D94-CEDBCDCE8C41": {
+          "name": "desktop/HE/5) H5 Headline/right/disabled"
+        },
+        "7DF33523-116A-4A7A-9E6D-60FD3F101645": {
+          "name": "desktop/EN/16) links/L/center/secondary-hover"
+        },
+        "FE746C27-DAEF-4C5D-AABD-0DB17A03ED1C": {
+          "name": "desktop/EN/5) H5 Headline/right/disabled"
+        },
+        "15588FE3-B2C0-43E7-A42E-CAA63FCB71B5": {
+          "name": "desktop/EN/13) small/right/attention"
+        },
+        "996EA8FD-F1DF-4789-9CE9-9FABA73DCB51": {
+          "name": "desktop/EN/2) H2 Headline/right/dark"
+        },
+        "0A03B56F-F745-4DB9-835D-AF9E94BD8258": {
+          "name": "desktop/HE/16) links/S/right/light"
+        },
+        "3F0A5ACC-E7B5-4627-9E92-71B5E7666A9F": {
+          "name": "desktop/HE/8) subtitle 2/right/success"
+        },
+        "C9492E99-7833-4ACA-8557-F0A8D72D262E": {
+          "name": "desktop/EN/2) H2 Headline/right/light"
+        },
+        "4F13C4C0-1C09-403C-BF94-ACCD6F74B5DD": {
+          "name": "desktop/HE/13) small/left/secondary"
+        },
+        "490FCA77-2A72-4D50-9B37-59340B95967D": {
+          "name": "desktop/HE/13) small/left/attention"
+        },
+        "9EC77DD0-17ED-4AB4-87DC-2309EFD3C677": {
+          "name": "desktop/EN/16) links/S/right/primary-hover"
+        },
+        "023F6770-8384-4346-A080-E1A50C3FBBB5": {
+          "name": "desktop/HE/4) H4 Headline/right/secondary"
+        },
+        "FF6A2AF1-FD5C-4234-938E-F14315585051": {
+          "name": "desktop/EN/13) small/right/secondary"
+        },
+        "92B63931-DEA3-4E48-8A23-E2F2C0C4CA9A": {
+          "name": "desktop/HE/11) C1 Caption/left/success"
+        },
+        "FE93E1C9-EADD-4DE8-B4D0-6E34602438E0": {
+          "name": "desktop/EN/17) buttons/right/secondary"
+        },
+        "DA961364-B61C-481D-B05F-1A226DD67FB4": {
+          "name": "desktop/EN/13) small/center/success"
+        },
+        "D49F65E0-14FF-4D98-B129-CE769746A61C": {
+          "name": "desktop/HE/4) H4 Headline/left/light"
+        },
+        "5D9C91B1-2410-4F30-945A-2C8027E7BDDD": {
+          "name": "desktop/EN/2) H2 Headline/left/disabled"
+        },
+        "8B9681C0-2DC2-473C-A461-6B64A559F756": {
+          "name": "desktop/HE/8) subtitle 2/right/dark"
+        },
+        "B46B197E-CDE0-43FE-9C11-86441617988C": {
+          "name": "desktop/EN/8) subtitle 2/right/secondary"
+        },
+        "2D427B95-EC29-4D4F-9360-65FDA3555332": {
+          "name": "desktop/HE/5) H5 Headline/right/primary"
+        },
+        "33A9B11C-7C3A-47D5-AD69-A97BDECD08C3": {
+          "name": "desktop/HE/7) subtitle 1/center/primary"
+        },
+        "C4EEB190-E727-449B-B96D-E2834537567D": {
+          "name": "desktop/EN/4) H4 Headline/right/dark"
+        },
+        "9B5AF248-D2F1-4A70-BC47-3B655E99470C": {
+          "name": "desktop/HE/16) links/M/center/primary-hover"
+        },
+        "58AEC150-E46A-4FE3-B120-8D235D6F12CA": {
+          "name": "desktop/HE/16) links/S/center/primary"
+        },
+        "0CAAD189-F98A-4D94-B024-AF3D3AD52B07": {
+          "name": "desktop/EN/12) C2 Caption/center/success"
+        },
+        "2DEB8CCD-96AA-467F-B12D-EB1F629AED9E": {
+          "name": "desktop/HE/17) buttons/left/disabled"
+        },
+        "86CC3CA8-2E55-4DEA-A4C3-BF746FFAD0E1": {
+          "name": "desktop/HE/12) C2 Caption/center/success"
+        },
+        "B5DE32AE-B150-4075-9BFF-330076DD7DF4": {
+          "name": "desktop/EN/12) C2 Caption/left/light"
+        },
+        "D3BB5F72-5936-4CB0-8780-B4DD120B2BF9": {
+          "name": "desktop/HE/8) subtitle 2/right/light"
+        },
+        "01EE2214-4172-4E32-99AC-28850EEE1787": {
+          "name": "desktop/HE/7) subtitle 1/left/light"
+        },
+        "19A7F008-3611-4DD9-A8C1-1FAD80AC8144": {
+          "name": "desktop/HE/1) H6 Headline/right/primary"
+        },
+        "2DEBC52E-400B-45A6-96DD-1ABA62BD6526": {
+          "name": "desktop/HE/9) P1 Paragraph/center/primary"
+        },
+        "BECD46A7-41F8-4884-9DF6-1C118466CD3F": {
+          "name": "desktop/HE/11) C1 Caption/right/primary"
+        },
+        "5630A2AF-C7FB-4BEF-822F-4AD849D612A3": {
+          "name": "desktop/EN/5) H5 Headline/right/light"
+        },
+        "6D8FA7A1-C241-4391-AABF-671CBC371AFB": {
+          "name": "desktop/HE/8) subtitle 2/center/primary"
+        },
+        "1BBDBAD2-F0BD-4299-A423-3E8EFFF65E66": {
+          "name": "desktop/HE/14) tiny/right/secondary"
+        },
+        "F82866C6-9C2F-45BE-A35B-DF3C6B9CB0CB": {
+          "name": "desktop/HE/14) tiny/left/light"
+        },
+        "8E58A0F0-5C00-4382-B32C-46272E402771": {
+          "name": "desktop/HE/4) H4 Headline/left/primary"
+        },
+        "69E954F1-BD6E-433E-B7FE-D2E712930480": {
+          "name": "desktop/EN/16) links/M/center/secondary-hover"
+        },
+        "D2B60834-7FF9-468F-84E0-8DEE9B11289E": {
+          "name": "desktop/EN/9) P1 Paragraph/left/light"
+        },
+        "1659792A-31B5-4FE7-9B6D-F8DA0498A52A": {
+          "name": "desktop/EN/13) small/center/disabled"
+        },
+        "A3D8B1AE-7F20-4793-A817-4FFE411136B8": {
+          "name": "desktop/HE/8) subtitle 2/left/dark"
+        },
+        "925C1CB2-285B-4F30-B8C9-E554899202FC": {
+          "name": "desktop/HE/5) H5 Headline/center/light"
+        },
+        "83CF0C10-B45E-480A-97CC-AD1306EFA2B6": {
+          "name": "desktop/HE/10) P2 Paragraph/right/primary"
+        },
+        "7807FC8B-6D53-4874-B745-CBE1F4F55746": {
+          "name": "desktop/EN/9) P1 Paragraph/center/dark"
+        },
+        "02A5D797-2130-49BC-BDEF-2E84F69C3D29": {
+          "name": "desktop/EN/16) links/S/left/disabled "
+        },
+        "1C441988-A584-4EB8-8054-C060FBF2A94C": {
+          "name": "desktop/HE/4) H4 Headline/left/disabled"
+        },
+        "D9975A6B-5163-475E-BBC1-F08756A1DF0E": {
+          "name": "desktop/EN/7) subtitle 1/center/attention"
+        },
+        "D04D5652-6610-4465-A45A-873DDDC752E6": {
+          "name": "desktop/EN/8) subtitle 2/right/dark"
+        },
+        "F9A27A3B-BA9B-47B5-B115-50F06714E644": {
+          "name": "desktop/EN/9) P1 Paragraph/right/disabled"
+        },
+        "75DCAB8C-361A-4BE5-B661-D01C9698EE87": {
+          "name": "desktop/EN/16) links/M/center/disabled "
+        },
+        "F25060D0-E9C9-4EAF-A114-6ED53983BF64": {
+          "name": "desktop/HE/8) subtitle 2/center/light"
+        },
+        "72C4EA7B-F62D-4386-B461-915E8C2C0294": {
+          "name": "desktop/HE/11) C1 Caption/left/light"
+        },
+        "B26744E0-8421-4BA2-9585-50C0ED0FA2A4": {
+          "name": "desktop/EN/16) links/S/left/primary"
+        },
+        "D1FF7F84-3F84-43E4-88E2-F7889FDA1215": {
+          "name": "desktop/HE/5) H5 Headline/left/disabled"
+        },
+        "03B64554-9192-4639-A28B-33995006C448": {
+          "name": "desktop/HE/16) links/M/center/active-link"
+        },
+        "85D731D3-8D05-4B3C-86FF-058634E9C7AD": {
+          "name": "desktop/EN/16) links/L/center/disabled "
+        },
+        "5B49A384-ED29-41EC-A42D-CFB4768022E4": {
+          "name": "desktop/HE/1) H6 Headline/right/secondary"
+        },
+        "33F8E5A3-54C1-42DE-AD38-1AB715303F5F": {
+          "name": "desktop/HE/2) H2 Headline/left/secondary"
+        },
+        "C4D5CBB0-9A9F-4633-987C-13B523EE813E": {
+          "name": "desktop/EN/6) H6 Headline/center/light"
+        },
+        "CB06E9CD-ED28-4A16-AD47-CC1720AE6D05": {
+          "name": "desktop/HE/3) H3 Headline/left/secondary"
+        },
+        "FBABEDB8-C87A-439B-A360-32789D45E803": {
+          "name": "desktop/EN/11) C1 Caption/center/attention"
+        },
+        "EE928A1F-68D1-43A9-82C0-D5E9F7F41CE9": {
+          "name": "desktop/HE/7) subtitle 1/center/secondary"
+        },
+        "D1284F4A-BC8E-4C6E-B59D-C9EE964F8649": {
+          "name": "desktop/EN/16) links/L/left/secondary"
+        },
+        "F148C17F-4038-4627-ACA7-B729668B4129": {
+          "name": "desktop/EN/1) H6 Headline/center/light"
+        },
+        "03937AD7-E124-4F09-B11B-4BAE46EFFC7D": {
+          "name": "desktop/EN/4) H4 Headline/center/light"
+        },
+        "26C36720-9109-4E17-9B78-C371BF6A84DD": {
+          "name": "desktop/EN/10) P2 Paragraph/left/primary"
+        },
+        "0BB6CD66-74AE-44E9-A37D-6558BFD9AAA5": {
+          "name": "desktop/EN/16) links/breadcrumbs/unselected"
+        },
+        "ABBE8AED-CB53-445B-AAA6-D5B9CD8953A7": {
+          "name": "desktop/EN/16) links/S/left/primary-hover"
+        },
+        "9FEA61B1-4A96-4FB6-8ECC-2D938CE34BB0": {
+          "name": "desktop/EN/10) P2 Paragraph/center/primary"
+        },
+        "2E07D1F2-467C-406A-AED9-A4CA9B9A0414": {
+          "name": "desktop/EN/10) P2 Paragraph/right/secondary"
+        },
+        "5EF47E2B-67A0-4A28-A7B2-013F1BB3330B": {
+          "name": "desktop/EN/9) P1 Paragraph/left/primary"
+        },
+        "3C9D55B4-E078-4A71-8E13-B246D9F35AB7": {
+          "name": "desktop/HE/7) subtitle 1/center/dark"
+        },
+        "ED5FC1B2-8876-475F-B018-F1EC7479764D": {
+          "name": "desktop/EN/16) links/S/center/link-active"
+        },
+        "69E80B2C-733B-41C3-BC1A-9EBEA9A16F83": {
+          "name": "desktop/EN/3) H3 Headline/center/light"
+        },
+        "745EC825-977B-4D44-B40C-8974D51D5DB8": {
+          "name": "desktop/HE/14) tiny/left/secondary"
+        },
+        "1579514E-3C73-4894-8589-546F57971258": {
+          "name": "desktop/HE/7) subtitle 1/center/attention"
+        },
+        "0A1B06C3-8452-46E6-A0F2-6B0B03D48BAF": {
+          "name": "desktop/HE/16) links/S/right/active-link"
+        },
+        "A1982DC8-0631-4BA5-8236-6CF9F7DF1CD7": {
+          "name": "desktop/EN/16) links/L/left/primary-hover"
+        },
+        "AF23496A-491D-4AA7-92C4-3C33B11B6961": {
+          "name": "desktop/HE/16) links/L/right/primary-hover"
+        },
+        "40A606B3-2F66-4759-86F7-AF8A433DE986": {
+          "name": "desktop/HE/10) P2 Paragraph/left/disabled"
+        },
+        "8795BB8B-65D2-4469-9E2D-6059A13BB2FC": {
+          "name": "desktop/HE/17) buttons/right/gray"
+        },
+        "8AA6FE21-3FD5-4D82-ABAD-62EE5B1733B4": {
+          "name": "desktop/EN/12) C2 Caption/center/primary"
+        },
+        "7065F4C3-3AE4-4057-9E1F-D4EA435BD246": {
+          "name": "desktop/HE/7) subtitle 1/left/dark"
+        },
+        "6EA68DE3-DB0D-450D-A470-68E9ABA1BFA3": {
+          "name": "desktop/EN/5) H5 Headline/center/attention"
+        },
+        "5C1CDCC0-C7FF-4E0C-933C-4EBEC4C24551": {
+          "name": "desktop/HE/12) C2 Caption/right/primary"
+        },
+        "B31C844A-0279-436D-8B36-76ED480525CA": {
+          "name": "desktop/EN/17) buttons/left/secondary"
+        },
+        "B8841E59-C27F-470C-ADDD-F95914321633": {
+          "name": "desktop/HE/16) links/L/center/primary-hover"
+        },
+        "EDE18D97-8F6A-4947-9DDD-F48C71569A86": {
+          "name": "desktop/HE/2) H2 Headline/center/secondary"
+        },
+        "5535D537-2B38-441D-B52A-C94FA58BA25D": {
+          "name": "desktop/HE/14) tiny/right/attention"
+        },
+        "773A07F6-7DF7-4D66-A4BB-9893347079C4": {
+          "name": "desktop/HE/13) small/right/primary"
+        },
+        "F81642F1-5260-4991-855E-511F10CBE069": {
+          "name": "desktop/EN/1) H6 Headline/center/primary"
+        },
+        "0E764DAE-D59D-4BFC-B502-E41731F256F2": {
+          "name": "desktop/HE/16) links/L/center/secondary-hover"
+        },
+        "FCDDA8CC-58DD-43B0-8056-13C4F81B6E50": {
+          "name": "desktop/HE/11) C1 Caption/center/disabled"
+        },
+        "4D64D6D1-A4C7-4759-9F8F-ED2B63EDA761": {
+          "name": "desktop/HE/12) C2 Caption/center/light"
+        },
+        "61C1F492-B85B-4A73-B333-F30B97EC039B": {
+          "name": "desktop/EN/11) C1 Caption/left/secondary"
+        },
+        "DC966C7B-65FD-4B4D-9E23-81E821099EB5": {
+          "name": "desktop/EN/2) H2 Headline/center/primary"
+        },
+        "6F8DCB79-A7E9-4A83-91B5-718F2796C397": {
+          "name": "desktop/HE/14) tiny/right/success"
+        },
+        "AE7E2D38-E4BB-42F0-A636-435CD89511F1": {
+          "name": "desktop/EN/14) tiny/center/disabled"
+        },
+        "A9756637-C2FF-4B81-A4C6-819ECD4A1187": {
+          "name": "desktop/HE/9) P1 Paragraph/right/secondary"
+        },
+        "1BE10C2E-C356-4E3B-AFFF-52996929FD2A": {
+          "name": "desktop/HE/8) subtitle 2/center/disabled"
+        },
+        "8B3C6C93-1F1A-4F0A-8425-E04372D2B981": {
+          "name": "desktop/EN/9) P1 Paragraph/center/primary"
+        },
+        "3125FA4B-F92B-4F72-98ED-0E06E6F8FE35": {
+          "name": "desktop/EN/8) subtitle 2/left/success"
+        },
+        "BDB69F71-205B-4C8C-9E79-A1841CE0A027": {
+          "name": "desktop/EN/4) H4 Headline/left/light"
+        },
+        "E500C605-2EC2-4F75-AE18-45C7672F436A": {
+          "name": "desktop/HE/14) tiny/right/dark"
+        },
+        "DEE87BB6-47FA-4599-A616-001D3EE12623": {
+          "name": "desktop/HE/7) subtitle 1/right/success"
+        },
+        "06089112-1707-48F8-9683-168670C7035B": {
+          "name": "desktop/HE/16) links/L/right/secondary-hover"
+        },
+        "317DC492-14F9-41A2-9993-2EC032B1616D": {
+          "name": "desktop/HE/16) links/S/left/disabled-link"
+        },
+        "BC74233A-846B-4994-80DB-2ED15E5C4872": {
+          "name": "desktop/EN/14) tiny/center/success"
+        },
+        "4CBE2FB9-DD79-40E6-A5EE-9B33B261B6AE": {
+          "name": "desktop/EN/10) P2 Paragraph/left/secondary"
+        },
+        "25A1260B-2AFB-4A10-A5FD-ED2E9EF19E90": {
+          "name": "desktop/HE/5) H5 Headline/left/success"
+        },
+        "37BD1FA2-BC23-4DC6-BC0D-33456F2E9562": {
+          "name": "desktop/EN/16) links/M/left/primary-hover"
+        },
+        "9E15F0BC-9836-44AA-BE62-1AC2372BB717": {
+          "name": "desktop/HE/11) C1 Caption/left/attention"
+        },
+        "24718F5E-4821-4AE2-84B6-944CC2D12DD2": {
+          "name": "desktop/HE/13) small/center/dark"
+        },
+        "ABD1A6D0-1CFB-480D-AFE5-A626BDEB95EB": {
+          "name": "desktop/EN/8) subtitle 2/center/success"
+        },
+        "E8EB9ED9-6617-45E2-84B1-7099E050291C": {
+          "name": "desktop/EN/7) subtitle 1/right/dark"
+        },
+        "AA2F1A30-A73E-4D78-8AE0-8D349BB24C1B": {
+          "name": "desktop/EN/16) links/L/right/disabled "
+        },
+        "6F4338E3-5AEE-47C1-80AD-C9571C1762B7": {
+          "name": "desktop/EN/14) tiny/right/success"
+        },
+        "F7879B4F-C222-48B1-8E8E-D9A636D57B3D": {
+          "name": "desktop/HE/2) H2 Headline/right/primary"
+        },
+        "31ACE5CE-97C4-4F61-A776-86C337042680": {
+          "name": "desktop/EN/7) subtitle 1/center/disabled"
+        },
+        "60C7396B-646A-41A5-966A-5C4B012634A1": {
+          "name": "desktop/HE/6) H6 Headline/right/primary "
+        },
+        "AC40C2B5-0903-4850-B03F-0AE29AC0EA20": {
+          "name": "desktop/HE/12) C2 Caption/left/secondary"
+        },
+        "8D7AB774-895A-4AE3-9459-955E2C5E1471": {
+          "name": "desktop/EN/6) H6 Headline/right/light"
+        },
+        "2AFF4F3D-4A85-420D-A753-CEF144D40F75": {
+          "name": "desktop/EN/8) subtitle 2/left/attention"
+        },
+        "13FF5B21-CA81-4ABC-B335-2CA914961562": {
+          "name": "desktop/HE/7) subtitle 1/right/primary"
+        },
+        "1191CCD2-0BFD-40BB-AEAD-5304F6CAED25": {
+          "name": "desktop/HE/16) links/S/right/disabled-link"
+        },
+        "24A55BE1-53FF-4197-A2F8-312D630657F2": {
+          "name": "desktop/HE/16) links/S/center/light"
+        },
+        "BD18497F-5361-42AB-8246-3F214F83AE89": {
+          "name": "desktop/EN/13) small/left/secondary"
+        },
+        "6B713CE1-4D28-4437-9878-1397A1E1A685": {
+          "name": "desktop/HE/4) H4 Headline/center/disabled"
+        },
+        "AAA8CD8D-44E4-42DA-89A1-ACA5C8B436FE": {
+          "name": "desktop/HE/7) subtitle 1/left/disabled"
+        },
+        "D2C10AE3-B03B-41D3-9ACB-E2A6B96AAFB4": {
+          "name": "desktop/EN/17) buttons/center/attention"
+        },
+        "006AC964-A120-49A0-8161-2E1D6F84C196": {
+          "name": "desktop/EN/16) links/L/left/primary"
+        },
+        "E14DCE41-3676-4952-8F06-D52D6304B229": {
+          "name": "desktop/EN/16) links/S/left/link-active"
+        },
+        "CA64B824-A175-4255-ABE3-B96689D831DF": {
+          "name": "desktop/EN/3) H3 Headline/right/light"
+        },
+        "643DD110-149D-4D99-9473-E97FD8F216F7": {
+          "name": "desktop/HE/10) P2 Paragraph/center/light"
+        },
+        "EE1B5ADB-9293-4249-B44F-C5271D0C73D3": {
+          "name": "desktop/HE/2) H2 Headline/center/light"
+        },
+        "0FCBDEEA-1EC6-492C-8FDB-9A8B5A025532": {
+          "name": "desktop/EN/16) links/L/left/light-underline  "
+        },
+        "52577719-1199-406E-BF74-D06AA449559B": {
+          "name": "desktop/EN/16) links/S/center/light-underline "
+        },
+        "2C18B26D-9C5C-4739-9673-2C9E4A4C36C7": {
+          "name": "desktop/EN/16) links/M/center/primary-hover"
+        },
+        "30A6A833-6B96-4EEB-89BD-7B25877B68D4": {
+          "name": "desktop/HE/5) H5 Headline/center/dark"
+        },
+        "486E66A6-1302-4ABA-A979-A5649EA013A3": {
+          "name": "desktop/HE/5) H5 Headline/left/dark"
+        },
+        "B0CFE195-2189-42E7-B2C9-3C75BB0C5223": {
+          "name": "desktop/EN/7) subtitle 1/right/primary"
+        },
+        "0681DED5-FDD5-4F37-8EB7-E0F56B9EA0C2": {
+          "name": "desktop/HE/16) links/S/left/active-link"
+        },
+        "1B9EEC63-6F96-4A6E-BDA6-B8BEEFCF460E": {
+          "name": "desktop/EN/8) subtitle 2/left/light"
+        },
+        "2150513B-2CCE-41AB-A900-B765C3F54DF0": {
+          "name": "desktop/HE/2) H2 Headline/right/light"
+        },
+        "71810001-DE8B-4481-B13F-224E448D7BBA": {
+          "name": "desktop/HE/13) small/left/success"
+        },
+        "15630C27-BD80-4C0B-A5DD-3579772DF033": {
+          "name": "desktop/HE/9) P1 Paragraph/left/success"
+        },
+        "AF4F4D59-3707-47F9-AB41-9041EB801715": {
+          "name": "desktop/EN/4) H4 Headline/left/secondary"
+        },
+        "D4EEFCF2-4C3D-4DDA-8AB1-90231048F916": {
+          "name": "desktop/HE/16) links/S/left/secondary-hover"
+        },
+        "0E6DFC42-42B7-4DF5-A02C-7E08391B17A5": {
+          "name": "desktop/HE/12) C2 Caption/right/light"
+        },
+        "AAC03F0A-3FEA-4D0A-90F7-A8BD17FC016F": {
+          "name": "desktop/EN/15) placeholder/small/placeholder/right/disabled"
+        },
+        "4FFDCA51-D850-4FF5-A3C6-B0E1961BE525": {
+          "name": "desktop/EN/12) C2 Caption/center/light"
+        },
+        "DDC69A26-F20E-4F9F-98FB-C8EE12197224": {
+          "name": "desktop/EN/14) tiny/right/disabled"
+        },
+        "85B57E4E-CDFA-4FE3-B0EB-8EB95911A639": {
+          "name": "desktop/EN/17) buttons/right/attention"
+        },
+        "0F9AF916-791D-417D-8FB2-726C2327B4F6": {
+          "name": "desktop/EN/13) small/right/dark"
+        },
+        "2FA1FEB5-F904-47E8-B967-E55F52737A9C": {
+          "name": "desktop/EN/16) links/M/center/primary"
+        },
+        "C928E69E-C1EC-4022-8861-3305376E8DBA": {
+          "name": "desktop/HE/6) H6 Headline/right/dark "
+        },
+        "44389C58-FE60-49B9-BFA5-42D1DB99076F": {
+          "name": "desktop/HE/16) links/S/center/secondary"
+        },
+        "07BD7505-4889-47FA-B206-D5356B64A2ED": {
+          "name": "desktop/HE/17) buttons/right/blue"
+        },
+        "652BEC22-DBB3-40E3-B8CA-6C7DA30044C8": {
+          "name": "desktop/EN/17) buttons/right/dark"
+        },
+        "2A29C1F6-3EDB-4D9E-9BF5-A6B03196B119": {
+          "name": "desktop/EN/4) H4 Headline/center/secondary"
+        },
+        "F367D654-3406-4FF7-B3E0-65A3FE7743AF": {
+          "name": "desktop/EN/14) tiny/right/dark"
+        },
+        "E0757AE5-F5E0-4A91-827F-59F84C95B07E": {
+          "name": "desktop/HE/4) H4 Headline/center/dark"
+        },
+        "5A21BA86-9F76-4B89-A6F8-D9240D3464FD": {
+          "name": "desktop/EN/4) H4 Headline/right/light"
+        },
+        "95E5294D-D7A6-4811-ABCB-ED4424D6E3D7": {
+          "name": "desktop/EN/10) P2 Paragraph/center/light"
+        },
+        "501B7540-E390-42DE-B207-35DABF6D05CC": {
+          "name": "desktop/EN/1) H6 Headline/right/disabled"
+        },
+        "0D375BD1-40C6-46E6-A24C-282EDB31B04D": {
+          "name": "desktop/HE/8) subtitle 2/left/attention"
+        },
+        "B2204242-86F4-46CE-911F-D7F999FCA75E": {
+          "name": "desktop/HE/9) P1 Paragraph/right/dark"
+        },
+        "68745623-F97E-4845-B903-5AF6731883B2": {
+          "name": "desktop/HE/5) H5 Headline/right/success"
+        },
+        "C04F82E0-369D-46E5-BE78-29899BBB4E70": {
+          "name": "desktop/EN/7) subtitle 1/right/success"
+        },
+        "E222D7AB-0032-45A4-ABAD-E77E2A5EE386": {
+          "name": "desktop/EN/12) C2 Caption/right/secondary"
+        },
+        "3A3F187F-D1EB-4E4A-9C29-623DC512216D": {
+          "name": "desktop/HE/11) C1 Caption/center/attention"
+        },
+        "C17B010D-ABD9-43A4-B596-5EA18EC6B9FD": {
+          "name": "desktop/HE/13) small/right/disabled"
+        },
+        "E26D0F35-944A-41E6-91C1-7A0FAE17C1F0": {
+          "name": "desktop/EN/16) links/S/right/disabled "
+        },
+        "5405D149-C4F9-4B31-A6B9-88BDCC916581": {
+          "name": "desktop/HE/11) C1 Caption/center/success"
+        },
+        "41A1A149-EEBD-4953-8134-99EC75572C9E": {
+          "name": "desktop/HE/2) H2 Headline/right/dark"
+        },
+        "41B85663-9810-4336-A072-B1399EFC7F5A": {
+          "name": "desktop/HE/2) H2 Headline/right/disabled"
+        },
+        "1665A623-27ED-4A36-82A2-C730097E0AAB": {
+          "name": "desktop/EN/5) H5 Headline/left/success"
+        },
+        "41AB9770-59A1-44BD-8AB9-9B65327E4084": {
+          "name": "desktop/HE/1) H6 Headline/left/primary"
+        },
+        "C617616E-56C2-4115-AA1C-243274108C58": {
+          "name": "desktop/HE/17) buttons/center/blue"
+        },
+        "96D43F05-F350-4C0E-8148-5E31436B5AEC": {
+          "name": "desktop/HE/9) P1 Paragraph/center/attention"
+        },
+        "97F77A02-DC1C-4EB8-8CFC-9CCBA04B0DF2": {
+          "name": "desktop/EN/5) H5 Headline/left/attention"
+        },
+        "40A029B5-24CA-4F7C-BE03-C327325CE636": {
+          "name": "desktop/EN/17) buttons/left/light"
+        },
+        "DE393718-9AB3-481B-AFD3-D58A39149DA2": {
+          "name": "desktop/EN/11) C1 Caption/center/secondary"
+        },
+        "2D21F90B-4592-4B4A-9F69-93394FD9EFDC": {
+          "name": "desktop/EN/16) links/S/center/light "
+        },
+        "B6BFFBD9-B3FC-4C88-87B8-B493DA5EB3BC": {
+          "name": "desktop/EN/7) subtitle 1/left/primary"
+        },
+        "257C2B71-9862-48B3-B96D-EEF69AFED7C6": {
+          "name": "desktop/EN/16) links/M/center/light-underline "
+        },
+        "ECD43F78-3674-4529-9CA8-68DEBC2EB146": {
+          "name": "desktop/EN/8) subtitle 2/center/attention"
+        },
+        "7DFDD1A8-8BE6-4F06-9EC8-2FA7FB21B650": {
+          "name": "desktop/EN/16) links/L/left/disabled "
+        },
+        "DFF044A7-07B8-4BD1-9428-E331D8AABC85": {
+          "name": "desktop/HE/1) H6 Headline/center/dark"
+        },
+        "8457F994-74A4-4E42-9E8C-1F2B2B6FC882": {
+          "name": "desktop/EN/15) placeholder/reg/placeholder/left/disabled"
+        },
+        "63941B33-6BA8-45DB-8209-901F43F317E3": {
+          "name": "desktop/EN/2) H2 Headline/center/secondary"
+        },
+        "A9A608DE-74DD-4CBD-9282-21CFEFA779EC": {
+          "name": "desktop/EN/16) links/M/right/link-active"
+        },
+        "8DBE1D5A-D83F-41DA-8095-97E84EDB5365": {
+          "name": "desktop/EN/8) subtitle 2/center/disabled"
+        },
+        "0BB13EF5-4F48-488C-86C1-C5AB2EBA5CA5": {
+          "name": "desktop/HE/10) P2 Paragraph/left/attention"
+        },
+        "A8F18228-EC98-4C51-8E1A-430A71DCAA19": {
+          "name": "desktop/HE/16) links/L/center/active-link"
+        },
+        "300941AF-CE74-46A8-B242-DB9CE1EA4085": {
+          "name": "desktop/EN/12) C2 Caption/center/attention"
+        },
+        "F1B3FAE9-54CF-4D44-9408-33FB3ECDC213": {
+          "name": "desktop/EN/8) subtitle 2/right/success"
+        },
+        "DCC87718-BDB1-4698-BDD2-7FA0C2DF164C": {
+          "name": "desktop/EN/11) C1 Caption/right/attention"
+        },
+        "A6B162C2-4C2F-405F-AA51-8CC70B93FFAB": {
+          "name": "desktop/EN/16) links/S/left/secondary"
+        },
+        "98FBA942-8F6D-4486-B53F-0E7AD2ABF912": {
+          "name": "desktop/HE/4) H4 Headline/right/primary"
+        },
+        "B8C0736E-F2B4-44CB-B31C-8EC0D8337B28": {
+          "name": "desktop/EN/17) buttons/center/dark"
+        },
+        "A07C5F26-3B06-45E0-95BA-7A42B5F8BD9F": {
+          "name": "desktop/HE/10) P2 Paragraph/center/primary"
+        },
+        "DDEEC425-608A-4824-A921-E077DB797086": {
+          "name": "desktop/EN/6) H6 Headline/center/primary"
+        },
+        "8DBC2A8D-F0E2-4625-8516-D59BAAA5D06E": {
+          "name": "desktop/HE/4) H4 Headline/left/secondary"
+        },
+        "26C5D825-EA1A-47A4-B299-79CAD4D23B82": {
+          "name": "desktop/HE/7) subtitle 1/left/success"
+        },
+        "38A7C85E-A432-445F-9D02-5541526216DA": {
+          "name": "desktop/HE/2) H2 Headline/left/disabled"
+        },
+        "CF359A4B-F8AE-45E7-A87F-EF38D7611C89": {
+          "name": "desktop/HE/16) links/M/right/secondary"
+        },
+        "C744FF23-7979-49D0-BB37-70ABFBA6284E": {
+          "name": "desktop/HE/8) subtitle 2/right/attention"
+        },
+        "8DCD49F8-6A89-4B29-9A5F-FF56FECC709E": {
+          "name": "desktop/EN/14) tiny/left/success"
+        },
+        "38E995C3-62FE-40D8-9582-166970D3BE73": {
+          "name": "desktop/HE/6) H6 Headline/left/light "
+        },
+        "7D458B0F-B405-4103-AFFF-57C407ECA497": {
+          "name": "desktop/HE/11) C1 Caption/right/secondary"
+        },
+        "3D045AA6-5170-46A8-A5D9-C260479E1673": {
+          "name": "desktop/HE/8) subtitle 2/left/disabled"
+        },
+        "EA90E530-7234-4ADB-A693-29E4801E8121": {
+          "name": "desktop/EN/16) links/S/left/light "
+        },
+        "A13E3C9B-D070-4C92-B362-CBD4BFF47A2A": {
+          "name": "desktop/EN/6) H6 Headline/right/secondary"
+        },
+        "0A1110FE-E998-4779-A7F5-6DDDF49B150B": {
+          "name": "desktop/EN/17) buttons/left/disabled"
+        },
+        "92F44487-8B2D-4BD9-A12D-700BCAED79AA": {
+          "name": "desktop/HE/16) links/M/center/disabled-link"
+        },
+        "F5F61C2F-F495-4B2C-B520-CD80E7A801C9": {
+          "name": "desktop/HE/5) H5 Headline/right/dark"
+        },
+        "4ACA578C-39DA-49E5-A415-A1AD7EC398C8": {
+          "name": "desktop/HE/14) tiny/left/dark"
+        },
+        "B3F76187-4AA3-4BFF-AE64-6F91BA8ECBD6": {
+          "name": "desktop/EN/4) H4 Headline/center/dark"
+        },
+        "CF086EDA-1B25-4A3C-8A79-B92015A56196": {
+          "name": "desktop/HE/14) tiny/center/secondary"
+        },
+        "0104BA93-D4B8-4AE6-B766-EA05E767BE4B": {
+          "name": "desktop/HE/12) C2 Caption/left/dark"
+        },
+        "D9C8C825-D602-4077-84AC-361006DD3EBF": {
+          "name": "desktop/EN/4) H4 Headline/center/primary"
+        },
+        "04249BE7-0D0D-4A7E-A263-A653AAAC998C": {
+          "name": "desktop/HE/12) C2 Caption/right/secondary"
+        },
+        "FE8D29C2-12FE-4755-B7F3-7EA086B8F13B": {
+          "name": "desktop/HE/16) links/L/center/disabled-link"
+        },
+        "28A5E109-AEF8-4A18-9CF5-E71432FCDC48": {
+          "name": "desktop/HE/5) H5 Headline/center/attention"
+        },
+        "38C45EEA-F716-4664-A2D9-2BB61D7219BB": {
+          "name": "desktop/HE/11) C1 Caption/left/disabled"
+        },
+        "21C488FA-BC43-404E-9D15-8FF38B019070": {
+          "name": "desktop/EN/15) placeholder/reg/placeholder/left/default"
+        },
+        "BFE1D8B6-0E89-48D2-9645-74D5833C8934": {
+          "name": "desktop/EN/5) H5 Headline/center/success"
+        },
+        "C3CAFF97-6FDA-459E-B6AD-F87C4607942F": {
+          "name": "desktop/HE/16) links/breadcrumbsleft/hover"
+        },
+        "CC2363AF-B68D-4CBE-8281-8D8846BA448A": {
+          "name": "desktop/EN/1) H6 Headline/center/secondary"
+        },
+        "0CFFE7B4-2047-4C94-B925-CE192E74982E": {
+          "name": "desktop/EN/9) P1 Paragraph/center/light"
+        },
+        "88014255-B23B-4573-839B-B432FD16479C": {
+          "name": "desktop/EN/14) tiny/right/primary"
+        },
+        "42269B86-2400-49D2-96E3-8626904D593F": {
+          "name": "desktop/HE/17) buttons/center/dark"
+        },
+        "B9A53FB2-5BD2-49E7-A03E-A9282B7F9C0E": {
+          "name": "desktop/HE/11) C1 Caption/right/attention"
+        },
+        "EB88B5B9-A224-448C-A688-74FF192C3860": {
+          "name": "desktop/EN/6) H6 Headline/center/dark"
+        },
+        "36FF9ABF-C251-4659-9812-C73FDAAAF002": {
+          "name": "desktop/HE/2) H2 Headline/center/primary"
+        },
+        "4A70C85B-2A5C-49B0-BB5F-CDF1673390B1": {
+          "name": "desktop/HE/16) links/M/center/secondary-hover"
+        },
+        "992FD663-5824-49F5-B5AE-BB963C1D58B3": {
+          "name": "desktop/HE/13) small/right/attention"
+        },
+        "1E5A4329-FAB3-4CC7-B3B3-AE5B454E9107": {
+          "name": "desktop/HE/16) links/breadcrumbsleft/disabled"
+        },
+        "52735E2D-FB05-4AB2-91F5-FE27C6D0E628": {
+          "name": "desktop/EN/9) P1 Paragraph/center/attention"
+        },
+        "5ABE98B6-7770-4E28-8ED5-E9F5D68D53FB": {
+          "name": "desktop/HE/11) C1 Caption/left/dark"
+        },
+        "B554FCBF-B420-40E2-AB1F-E76A82E7BB95": {
+          "name": "desktop/EN/10) P2 Paragraph/right/light"
+        },
+        "6E1BEC20-24F3-4D45-97BB-236050DE9B62": {
+          "name": "desktop/HE/3) H3 Headline/right/disabled"
+        },
+        "9EA16588-B6AF-4FD3-8679-CC61D56565BB": {
+          "name": "desktop/EN/12) C2 Caption/left/dark"
+        },
+        "6306DA32-9547-4500-B048-90BB58FE902D": {
+          "name": "desktop/EN/16) links/M/center/secondary"
+        },
+        "4A690E25-7E5C-4A31-890D-8B7E1759665C": {
+          "name": "desktop/HE/12) C2 Caption/center/secondary"
+        },
+        "2FAE2D54-BAE4-4E9A-913B-E8B7904A8043": {
+          "name": "desktop/HE/16) links/M/center/light"
+        },
+        "7B3AACC8-8A75-49EB-B481-66C427A2259B": {
+          "name": "desktop/HE/13) small/right/success"
+        },
+        "EB6EA1A5-4979-4AA6-82B1-789DB85816A6": {
+          "name": "desktop/EN/16) links/M/center/link-active"
+        },
+        "8927D6C8-532B-4924-8678-B81AC641A870": {
+          "name": "desktop/EN/2) H2 Headline/right/secondary"
+        },
+        "81AF9BA6-BAF9-4A97-A1A9-0919B6F5DDFB": {
+          "name": "desktop/EN/5) H5 Headline/left/light"
+        },
+        "8E8CC419-B7E2-4D85-ACFA-3F9365596D50": {
+          "name": "desktop/HE/9) P1 Paragraph/right/disabled"
+        },
+        "EBD0C216-6B5F-4C5B-A0C9-953D3E52D2CE": {
+          "name": "desktop/EN/7) subtitle 1/left/success"
+        },
+        "F007629D-CFF9-44D4-A862-CC536D3E2C3F": {
+          "name": "desktop/EN/9) P1 Paragraph/left/success"
+        },
+        "EB677A6A-6C48-486B-97CC-0F225ACF8F04": {
+          "name": "desktop/EN/12) C2 Caption/right/primary"
+        },
+        "7A114731-A849-412A-B604-948FE3E87571": {
+          "name": "desktop/EN/14) tiny/center/dark"
+        },
+        "59705F05-3D54-495D-A98F-E7207E9BA092": {
+          "name": "desktop/EN/16) links/L/right/light  "
+        },
+        "AA1D4D74-D1C9-48AD-9D5E-CD11FE24CA64": {
+          "name": "desktop/EN/15) placeholder/small/placeholder/left/disabled"
+        },
+        "BD04EEAE-2D16-47DB-B671-CBB62A39E362": {
+          "name": "desktop/HE/17) buttons/left/blue"
+        },
+        "8A725A01-F512-4709-A933-C2D42A17B31F": {
+          "name": "desktop/HE/4) H4 Headline/right/dark"
+        },
+        "9E4720B7-7B99-4FFE-B9D7-8CD413FE8E6C": {
+          "name": "desktop/HE/9) P1 Paragraph/left/light"
+        },
+        "8139FAAA-7705-4A22-8058-0F0FAD89EE5C": {
+          "name": "desktop/EN/7) subtitle 1/left/light"
+        },
+        "684D3378-AC49-4F44-B34D-06410C0C14D9": {
+          "name": "desktop/EN/2) H2 Headline/center/dark"
+        },
+        "0D8D49F8-5D45-4D33-AA38-AAE979B6A3F2": {
+          "name": "desktop/HE/9) P1 Paragraph/right/success"
+        },
+        "2BC21767-B93D-440F-945A-E5E2283DC277": {
+          "name": "desktop/HE/10) P2 Paragraph/left/dark"
+        },
+        "39D8B6F4-ECD1-4701-A6AE-D35B71622530": {
+          "name": "desktop/HE/6) H6 Headline/right/light "
+        },
+        "3B6B9AA9-C2B1-4D79-8C84-4AFEB2CD70C3": {
+          "name": "desktop/EN/15) placeholder/reg/placeholder/right/disabled"
+        },
+        "553C5091-BF94-4EF6-9207-1CB6550C2CD2": {
+          "name": "desktop/EN/8) subtitle 2/left/dark"
+        },
+        "69F99B60-5BBC-4DF1-8947-4DDEB0832570": {
+          "name": "desktop/HE/3) H3 Headline/right/dark"
+        },
+        "A4BDF041-546B-4D56-A966-ECB4D27EB92F": {
+          "name": "desktop/EN/11) C1 Caption/center/disabled"
+        },
+        "E34E44BC-2EF2-4B36-9B22-7BF437B53757": {
+          "name": "desktop/HE/1) H6 Headline/left/secondary"
+        },
+        "8D32B210-0137-4A19-BA1D-0D1FBF817B15": {
+          "name": "desktop/EN/16) links/M/right/disabled "
+        },
+        "622CBF16-9C5A-4FBD-A41D-A3B5C9DB3A2A": {
+          "name": "desktop/EN/4) H4 Headline/left/primary"
+        },
+        "EA27038E-1A1C-43EB-B664-86AC242D005C": {
+          "name": "desktop/EN/9) P1 Paragraph/center/success"
+        },
+        "A6341061-334E-4263-A41F-2662B4E44430": {
+          "name": "desktop/EN/17) buttons/right/disabled"
+        },
+        "0118B4DD-5DC3-44DA-87FA-F95674E43A1F": {
+          "name": "desktop/HE/9) P1 Paragraph/left/disabled"
+        },
+        "999F2111-1557-40D5-B2E9-4F9E77EE86F5": {
+          "name": "desktop/EN/13) small/right/success"
+        },
+        "FA8A7152-C6B8-44CD-810F-2EB94272C7CA": {
+          "name": "desktop/EN/1) H6 Headline/right/light"
+        },
+        "78287405-B5ED-4C9B-B3C3-805B4B053ED8": {
+          "name": "desktop/EN/3) H3 Headline/right/disabled"
+        },
+        "7D86C640-D321-4E50-A5E7-FF7C7DFE4CB9": {
+          "name": "desktop/HE/12) C2 Caption/right/success"
+        },
+        "C3225F15-7B73-4249-9F0F-C79A8EC76B11": {
+          "name": "desktop/EN/2) H2 Headline/right/disabled"
+        },
+        "E5AA9C20-CD43-465C-B094-CBF4AF0BBD27": {
+          "name": "desktop/HE/9) P1 Paragraph/left/attention"
+        },
+        "72923EA3-CF3F-4EDE-A2A6-22E873723865": {
+          "name": "desktop/HE/9) P1 Paragraph/left/primary"
+        },
+        "2595046C-22B0-4D90-BDD0-2B58EE054700": {
+          "name": "desktop/EN/6) H6 Headline/center/disabled"
+        },
+        "E116C95E-0A16-42A8-B8F3-4C9786519527": {
+          "name": "desktop/HE/7) subtitle 1/left/primary"
+        },
+        "628FDC06-00E4-47BF-824A-E5B48301F4BF": {
+          "name": "desktop/EN/13) small/left/success"
+        },
+        "93C12EA6-0A5A-4D6A-89F7-84D2E28F4AA4": {
+          "name": "desktop/HE/12) C2 Caption/right/dark"
+        },
+        "6855DB17-FCE7-4F71-BA6E-FB5EA3DED360": {
+          "name": "desktop/HE/14) tiny/center/light"
+        },
+        "E0565065-5B1C-4027-B895-007C2E35E925": {
+          "name": "desktop/EN/13) small/center/light"
+        },
+        "8097F699-B632-4376-A29C-4A60439B2763": {
+          "name": "desktop/EN/3) H3 Headline/right/primary"
+        },
+        "2B7F6F7A-5684-45EA-82D8-F17D1AB4E7B0": {
+          "name": "desktop/HE/16) links/M/left/light-hover"
+        },
+        "88813528-304F-4799-A642-FBE3B2832347": {
+          "name": "desktop/EN/16) links/M/right/primary"
+        }
+      }
+    },
+    "22C6B110-D071-47F3-B23E-3E1E81692312": {
+      "name": "Typography",
+      "artboards": {
+        "83C760D4-CA2B-40BF-91E6-433B642700A2": {
+          "name": "Typography-EN"
+        },
+        "55AB3BEC-8F95-48D9-B079-D7485561B4A6": {
+          "name": "draft"
+        },
+        "5995622F-C50B-47EB-BB03-00C9AC8334E8": {
+          "name": "Typography-HE-Support Styles"
+        },
+        "8AA1C20D-3B6C-403A-B342-6CA4227DBBD4": {
+          "name": "Typography-HE"
+        },
+        "D3FCD954-3884-4005-8E62-7617CE99CDB7": {
+          "name": "English link typo"
+        },
+        "7F58E22C-2F7C-4C56-B746-6975109B40E5": {
+          "name": "Hebrew link typo"
+        },
+        "DC8EA20F-3B7C-48F9-A96B-0579B04CDB50": {
+          "name": "English dark typo"
+        },
+        "345BF70B-2733-477C-A81E-C5E9AD5AED8A": {
+          "name": "Typography-EN-Support Styles"
+        },
+        "24F6349E-07CC-461C-BF5D-11420982BB98": {
+          "name": "Hebrew dark typo"
+        }
+      }
+    },
+    "D8673B99-E63F-4446-B1B8-61CDF44AC553": {
+      "name": "Colors",
+      "artboards": {
+        "17AA2B40-EBFF-4C3F-ACAD-64F91134DE6D": {
+          "name": "Theme Color Copy"
+        },
+        "C6208905-D6DF-4A49-B638-FCA529A483E2": {
+          "name": "Artboard"
+        },
+        "D1B30893-1BC5-4B9F-BC3F-533E2DDD6105": {
+          "name": "Artboard"
+        }
+      }
+    }
+  },
+  "version": 121,
+  "fonts": [
+    "Arimo-Bold",
+    "BreeSerif-Regular",
+    "Heebo-Bold",
+    "Arimo-Regular",
+    "Roboto-Regular",
+    "OpenSans-Semibold",
+    "Roboto-MediumItalic",
+    "Roboto-Medium",
+    "Roboto-Bold",
+    "Arimo-Italic",
+    "Heebo-Medium"
+  ],
+  "compatibilityVersion": 99,
+  "app": "com.bohemiancoding.sketch3",
+  "autosaved": 1,
+  "variant": "NONAPPSTORE",
+  "created": {
+    "commit": "ebe35af5ba78090fd351ed427ecaafac003e0331",
+    "appVersion": "59.1",
+    "build": 86144,
+    "app": "com.bohemiancoding.sketch3",
+    "compatibilityVersion": 99,
+    "version": 121,
+    "variant": "NONAPPSTORE"
+  },
+  "saveHistory": [
+    "NONAPPSTORE.86144"
+  ],
+  "appVersion": "59.1",
+  "build": 86144
+}

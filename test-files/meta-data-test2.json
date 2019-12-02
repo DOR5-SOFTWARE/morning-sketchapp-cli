@@ -1,0 +1,663 @@
+{
+  "app": "com.bohemiancoding.sketch3",
+  "appVersion": "54.1",
+  "compatibilityVersion": 93,
+  "created": {
+    "app": "com.bohemiancoding.sketch3",
+    "appVersion": "54.1",
+    "compatibilityVersion": 93,
+    "variant": "NONAPPSTORE",
+    "version": 118
+  },
+  "fonts": [],
+  "pagesAndArtboards": {
+    "0A875FBE-4BB3-44AE-96EE-1F9848F85257": {
+      "name": "Icons & Buttons",
+      "artboards": {}
+    },
+    "6C7CE62D-31CF-4595-B4E5-89C7B0C2D2E7": {
+      "name": "Account Information",
+      "artboards": {
+        "00D47398-482E-48C8-83E4-966EB9771D03": {
+          "name": "Jacada - Account Information 2"
+        },
+        "90C7272E-FCD5-4605-ADE7-FBFD0A7737D8": {
+          "name": "Jacada - Account Information"
+        }
+      }
+    },
+    "8D66BD20-302D-4EAA-9C1C-845DA02A035A": {
+      "name": "Symbols",
+      "artboards": {
+        "01AD8147-CE03-4CDD-A95A-84CC676FBC97": {
+          "name": "icon / refresh_icon_initial"
+        },
+        "0370D707-7E01-4977-85EF-B0DE4AA74E42": {
+          "name": "Flow icon / chat"
+        },
+        "037C14E5-6262-4554-894B-FBBCCB9961E8": {
+          "name": "icon / 24 / input-icon / icon-number"
+        },
+        "0587BD90-F41C-404A-BF82-23C632D4D5E4": {
+          "name": "side hover"
+        },
+        "061D3601-8AC8-404C-94C6-3307E96D8D73": {
+          "name": "field / checkbox"
+        },
+        "07083776-D42B-4DC6-BC1A-2D959624AF99": {
+          "name": "icon / vi"
+        },
+        "071F6179-9468-4C43-A153-7B7443F2A662": {
+          "name": "icon / chat"
+        },
+        "0739A873-4BDD-48DC-A310-1AF8D38426A2": {
+          "name": "Page aditor / What's your date of birth?"
+        },
+        "08958BCA-A9DD-42F0-8A23-7209FBCCEADA": {
+          "name": "icon / 24 / input-icon / icon-multiline"
+        },
+        "08FF46B9-A718-4193-A16F-D01D9782F92F": {
+          "name": "icon / auto_icon_initial"
+        },
+        "099158BF-E5BF-4A61-8C16-0F6C0EF74B1F": {
+          "name": "Rectangle 9 Copy 2"
+        },
+        "0B398D00-7B49-4D7B-8013-DB0F7972260D": {
+          "name": "icon/Response Element"
+        },
+        "0B8598EF-7473-4182-A1EF-065A51486583": {
+          "name": "icon/integration point"
+        },
+        "0ED37267-DC6C-4FDF-97CB-BADD04807D4D": {
+          "name": "Rectangle 9 Copy 2"
+        },
+        "103AA80F-82CE-4AC7-906E-53927B500304": {
+          "name": "Solutin Tabs Copy 4"
+        },
+        "11026097-CD86-4641-A071-87FA2AC36180": {
+          "name": "share_icon_initial"
+        },
+        "11350FCB-9116-4876-9C94-0C666E485A62": {
+          "name": "icon/client_event"
+        },
+        "1233FED6-4165-4DF7-B97C-4DC24EAD243C": {
+          "name": "Cursor / Pointer"
+        },
+        "14CE9DA0-201D-4611-A0B4-51AC45321489": {
+          "name": "icon / 24 / input-icon / icon-list"
+        },
+        "165A1BE3-8D8E-4371-B190-94079C6472FF": {
+          "name": "Solutin Tabs Page deditor inactive"
+        },
+        "182A148C-CFF0-4955-8D05-476813020C68": {
+          "name": "arrow / flow / down copy"
+        },
+        "188B11B1-0F06-4F00-9269-85AE381364FC": {
+          "name": "icon / explorer / text"
+        },
+        "19F9F6DA-31E7-4D88-A80B-BDF4E2D11596": {
+          "name": "icon / counter"
+        },
+        "1A38A6EF-2D9E-436A-AC74-11F62CAA7F6D": {
+          "name": "close_window copy 2"
+        },
+        "1A45E21A-70B5-4E73-838F-21FF7801558D": {
+          "name": "icon / menu / undo"
+        },
+        "1B8895F1-9CA9-4561-8B33-0243C8D34413": {
+          "name": "Rectangle 9 Copy 2"
+        },
+        "1BCB05ED-8DB5-4966-9E11-B25F33213542": {
+          "name": "icon / Checked Copy"
+        },
+        "1C96CC41-2DC2-46B3-BBEC-64D8C87FFBF9": {
+          "name": "Solutin Tabs Page editor active"
+        },
+        "1F4FC907-E1C9-4C6D-9773-64A49C822B02": {
+          "name": "flow / 3 rows"
+        },
+        "1F6B73B0-B1E3-48F6-832A-D2AFF1F6912B": {
+          "name": "Rectangle 9 Copy"
+        },
+        "229D0A29-3817-468E-B86F-57342408768D": {
+          "name": "icon/decision point"
+        },
+        "23E09620-ACAC-4F57-A260-B6D58367EC35": {
+          "name": "Radio/On"
+        },
+        "25D86850-2BD0-4189-9E4E-B64F69B56C18": {
+          "name": "languages_icon_initial"
+        },
+        "25DC061C-6857-45A2-BD92-D1DC63AD6E5F": {
+          "name": "icon/email"
+        },
+        "27A3B675-B65E-4486-8782-AE6E384EB2DA": {
+          "name": "icon / 24 / icon-move"
+        },
+        "28C9DFB9-48D3-4280-9609-2F046D70DC7A": {
+          "name": "icon / filter"
+        },
+        "2A879D8A-256C-48DD-B9BF-DFBB67B6AD3B": {
+          "name": "Rectangle 9 Copy 2"
+        },
+        "2A9F8D81-ED5D-454A-8645-53CAF1D837A4": {
+          "name": "tab / on next tab"
+        },
+        "2C07686E-B675-42CA-A218-13ABEBA4A80B": {
+          "name": "icon / menu / share"
+        },
+        "2DC87D9E-E8C6-4C55-9EEC-54B04AC0175B": {
+          "name": "undo_icon_initial"
+        },
+        "2E3CB67A-87AD-4266-BC6B-83E28C150701": {
+          "name": "run_icon_initial"
+        },
+        "2F1B1765-4549-4DFB-94CB-3846FC0402A9": {
+          "name": "Drop_d"
+        },
+        "30BFDB03-65D6-4932-8FB3-E8E7043B5F2B": {
+          "name": "icon / rules_icon_initial"
+        },
+        "31DFCC40-B5FE-4644-A244-634627449231": {
+          "name": "BG/4 Header only"
+        },
+        "32BA8FE7-0250-4018-A77B-A8C673E36087": {
+          "name": "refresh_icon_initial"
+        },
+        "3343C79D-3742-4C40-AE3A-79012D6EEC9B": {
+          "name": "Rectangle 9 Copy 2"
+        },
+        "35268144-9119-45BE-AB20-B1C4C5E53BC7": {
+          "name": "FlowOptions Test"
+        },
+        "35E5A2DD-026D-4550-AB9F-3743B09AD258": {
+          "name": "icon / 30px / variables"
+        },
+        "37C7E9A7-ADD6-4F50-B594-D7A1255E913A": {
+          "name": "icon / 30px / variables"
+        },
+        "3862FE36-492F-4317-AD00-20318A26E622": {
+          "name": "Interface-Essential / Alerts / alert-circle Copy 3"
+        },
+        "388CFCE1-26FF-43FB-88F7-8A99FAACBE82": {
+          "name": "Radio / Off / On"
+        },
+        "389D2E24-E1BB-4722-898A-5E100B8BA56D": {
+          "name": "icon / plus 2"
+        },
+        "3A0CEB44-B7FA-4269-B681-79C161FC3D02": {
+          "name": "tab / on"
+        },
+        "3C2B0B26-D24D-4F70-8D1F-576D5C9552DB": {
+          "name": "flow / 3 rows"
+        },
+        "3D156D59-7F39-441A-B15D-AB11810FB6DC": {
+          "name": "icon / explorer / U"
+        },
+        "3DDDACAE-CBEE-472B-A459-1D7675D520E1": {
+          "name": "Solution Explorer Corrrect"
+        },
+        "3EBF7EE7-F2C3-4AAB-8894-E372DDA62A0E": {
+          "name": "Checkbox/off"
+        },
+        "401089DB-1F3B-4482-ADBA-D645B1B5B6FA": {
+          "name": "icon / flow icon / done"
+        },
+        "41B791B3-B0A5-4AE5-97D7-403A25E1B0E8": {
+          "name": " icon / 24 / stroke / icon-parameter resolver"
+        },
+        "440D95C0-5FC1-4837-A34E-5E993F8722CE": {
+          "name": "Rectangle 9"
+        },
+        "4B1590ED-E1A3-438B-8097-D2FA0D17F6CB": {
+          "name": "button / rounded / yellow"
+        },
+        "4B83A7C8-4316-4F93-AEF0-6D86C9C22379": {
+          "name": "Search a Variable List"
+        },
+        "4C82009B-C0AC-4535-B105-138B748FADFC": {
+          "name": "field / ddown boolean"
+        },
+        "4E25485C-14AB-49AF-8D71-3E4DA52546A3": {
+          "name": "field / ddown"
+        },
+        "4E87882A-E35E-4FA0-86E5-EB551015396B": {
+          "name": "tab / on"
+        },
+        "4F26C4C9-D7D1-4BC5-B13D-975B68E88326": {
+          "name": "Solution Explorer Sets"
+        },
+        "50E30ED3-A04A-47D3-903D-7BB5FA40A6EE": {
+          "name": "icon/integration point"
+        },
+        "519B91E4-2272-47BA-BDF7-5A34704D3530": {
+          "name": "icon / 30px / elements"
+        },
+        "52436E9E-5159-4B08-803C-A5593C8143E4": {
+          "name": "icon/allocator"
+        },
+        "5328ACA0-F444-44C7-B5A1-424873252054": {
+          "name": "Page 1 Copy"
+        },
+        "534B29A2-BD4C-4043-8C46-078CBD7EA442": {
+          "name": "side hover"
+        },
+        "553F0EFF-B8D5-4CF0-884D-990D50D6992D": {
+          "name": "Solution Explorer Resources "
+        },
+        "5643CCFE-22E2-49A1-9DD7-3DB0F876B21E": {
+          "name": "icon/client_event"
+        },
+        "565632D8-C92D-4AA0-8C97-BB0952C10A51": {
+          "name": "Header V1 trigger"
+        },
+        "568F0280-6824-4DC5-B93B-8CD580FAFBA7": {
+          "name": "icon / 24 / input-icon / icon-multiple-paths"
+        },
+        "5956B8FE-BB06-4F97-BB43-02F2AC6AD1D0": {
+          "name": "field / ddown / w-out-title-rounded / divider"
+        },
+        "5B185C93-AED8-4F34-8342-0EBDE940CF5B": {
+          "name": "field / checkbox / 10px-space"
+        },
+        "5BAFC505-0868-4885-9F5F-3B1F28ACB620": {
+          "name": "icon / 24 / input-icon / icon-password"
+        },
+        "5D3C9814-7B9E-450D-8608-0A6D76B2FECD": {
+          "name": "Solutin Tabs"
+        },
+        "5E03105F-DD52-4923-9236-9FE8405FF586": {
+          "name": "Pattern"
+        },
+        "6127BEFD-708C-43AC-941A-8396188621A4": {
+          "name": "Header V1"
+        },
+        "616D021D-2E46-4826-9762-D0AF4141063A": {
+          "name": "tab / on extended"
+        },
+        "61AE6FC6-9039-48FF-A01B-1D60E7AADC2F": {
+          "name": "icon / mail-at"
+        },
+        "61E01A3F-C8EB-4E90-AD39-AC5959CD5E3E": {
+          "name": "TopTabs/2"
+        },
+        "631329A7-306C-4CAA-8EA3-6B310608FAEC": {
+          "name": "icon/decision point"
+        },
+        "63338753-B33A-433B-ACAA-8B6B4E0CBB3C": {
+          "name": "flow / arrow / round"
+        },
+        "642F7C2C-3914-4165-9A2C-B9D49935CED0": {
+          "name": "icon / Checked"
+        },
+        "64D03834-B3D7-44B1-9809-94E367E0A185": {
+          "name": "icon/allocator"
+        },
+        "64F6EE77-9717-4EF2-8D43-5CE146FDA674": {
+          "name": "field / ddown / w-out-title-rounded"
+        },
+        "672D45DC-6F9A-4158-9EA4-02B8F4D9234F": {
+          "name": "icon / 24 / input-icon / icon-calendar"
+        },
+        "67702262-7452-4B30-B93D-50A5BB9A53D5": {
+          "name": "languages_icon_initial"
+        },
+        "68B90671-A25A-45D5-9AF6-976713DEAA7F": {
+          "name": "Interface-Essential / Alerts / alert-circle"
+        },
+        "68EAA195-4D45-4119-9AA3-73A89771D357": {
+          "name": "icon / allocator"
+        },
+        "6A704E20-09AD-4A0C-B948-74EA6B6A4211": {
+          "name": "active-bar"
+        },
+        "6D596619-2FAB-4541-9C3B-991F569C825A": {
+          "name": "arrow / flow / down"
+        },
+        "6DB1DF00-3ED2-441B-A654-CE4FB6CB7D1C": {
+          "name": "close_window"
+        },
+        "6E643E12-0A56-48BA-B20B-00E5CD9259B7": {
+          "name": "icon / plus"
+        },
+        "6F54F4CF-99F6-4E2E-9771-A64FDCA12A17": {
+          "name": "Flow icon / star"
+        },
+        "6F639CC5-F624-4939-937C-5602730B5CE9": {
+          "name": "file_icon_initial"
+        },
+        "73CD360B-81C6-4EF6-9AB1-6B5FEE1FD7C5": {
+          "name": "icon / explorer / date"
+        },
+        "7506D33F-50AB-44F0-B252-54A95E4ED465": {
+          "name": "icon / flow / chat"
+        },
+        "76BD747E-7C9A-4A43-A245-6299ED6C2138": {
+          "name": "field / autocomplite-ddown-element"
+        },
+        "7DD0F236-5C1F-4424-8576-2F652B7B9BEB": {
+          "name": "icon / 30px / variables sets"
+        },
+        "7E618BC4-237A-467D-AD5D-3C40DEFC1F35": {
+          "name": "icon / 24 / icon-trash"
+        },
+        "7EADC754-3794-4326-AC9F-ABBF0BEBCA63": {
+          "name": "icon / explorer_icon_initial"
+        },
+        "801231B3-C867-4819-8435-959FAB0F8A8E": {
+          "name": "input / designer / select element"
+        },
+        "801C74D8-F7E2-496E-A1A9-6B6AF9D98200": {
+          "name": "icon/email"
+        },
+        "811D9ECE-9E3E-4199-8BE8-DCC293A52FCD": {
+          "name": "icon / 24 / input-icon / icon-short-text"
+        },
+        "81B0E467-B67D-4978-882B-00CD3F79057C": {
+          "name": "Solution Explorer Elements"
+        },
+        "84E1CCCF-BCC0-461A-AD88-60DB8A5696BF": {
+          "name": "help_icon_initial"
+        },
+        "850221BD-073D-4E37-93AD-AA74BA9B9C10": {
+          "name": "icon / 30px / resources"
+        },
+        "859DF933-CF4A-4BE6-992A-DB24851AAA0E": {
+          "name": "icon / explorer / asked quastions"
+        },
+        "8815A8D4-315B-4D02-BEC9-B64A34E82374": {
+          "name": "icon / menu / help"
+        },
+        "8A4803E2-13B0-4F56-906B-7C3D2B1A96C4": {
+          "name": "Left bar menu section header off"
+        },
+        "8A58EBA1-215E-41B9-8D4D-AE29C4D33017": {
+          "name": "button / rounded / yellow"
+        },
+        "8D4D0EBB-A17D-44C5-BB19-6C2E9F688FB2": {
+          "name": "flow / 3 rows \"true path\" top"
+        },
+        "909D83CB-0413-47A3-9BB4-8BD181A460CD": {
+          "name": "FlowOptions Test"
+        },
+        "91B74026-F1C8-4255-B749-C926AE23F34A": {
+          "name": "auto_icon_initial"
+        },
+        "94AD7746-4CB6-452D-8B36-4686BF7F3987": {
+          "name": "explorer_icon_initial"
+        },
+        "962A9E7D-FFE5-45AF-AF05-A6B155A631E3": {
+          "name": "icon / admin_icon_initial"
+        },
+        "9AC4A92A-F7C7-40BC-B55E-F0A05F53DAED": {
+          "name": "icon / explorer / S 2"
+        },
+        "9D07EBEC-3408-4A99-94C3-01B1715505F3": {
+          "name": "Left bar menu section header on"
+        },
+        "9E06CC5A-C145-42A2-AAC0-D06E5C06C45D": {
+          "name": "icon/Go To Flow"
+        },
+        "A18B824E-B0AE-485C-B110-A4A9F3122E64": {
+          "name": "button / outlined / strok 1px "
+        },
+        "A6232294-FDFC-4EE6-A502-22649917DA5B": {
+          "name": "Search a Variable List - hover"
+        },
+        "A6D3DAC0-6180-450F-8D4E-9F1EE1742427": {
+          "name": "Search a Variable List Elements"
+        },
+        "A86D2F43-738E-4BAB-8DD8-DE00F4D3E541": {
+          "name": "Search a Variable List Sets hover"
+        },
+        "A9E1F5CA-1731-445C-AE09-48173DBEE891": {
+          "name": "field / field 1"
+        },
+        "AB65B121-1D6D-446F-A5BE-C3CEFFECF3E4": {
+          "name": "icon / explorer / S 3"
+        },
+        "AC398983-CFD0-4C45-92D1-54BBC731A5D3": {
+          "name": "icon / run_icon_initial"
+        },
+        "ADBACDA9-3123-4FCF-9FDE-CF20CF8580B1": {
+          "name": "Solution Explorer Corrrect"
+        },
+        "B0D73D47-D15B-4A95-8543-59088539DAEC": {
+          "name": "icon / checkbox on"
+        },
+        "B26C7EF9-8CF0-44A4-8A0A-DC4E5857037C": {
+          "name": "icon / pazzle"
+        },
+        "B2DA7DA9-3CF9-4212-9252-C043F414645C": {
+          "name": "Rectangle 9 Copy 2"
+        },
+        "B3081C7F-44BE-4AB8-B8FD-719EE12C1947": {
+          "name": "icon / edit"
+        },
+        "B5972F57-0CCD-49C2-8E85-76CA99A9A1D3": {
+          "name": "FlowOptions Test"
+        },
+        "B658373E-B0C1-4AC4-BB4B-8BBBF09DE10B": {
+          "name": "field / add-new-chice"
+        },
+        "B681B6FD-8B73-4367-9108-41331E690B8E": {
+          "name": "icon / d.down arrow"
+        },
+        "B7003FF2-4DE9-4D06-A639-36ACAECDF694": {
+          "name": "file_icon_initial"
+        },
+        "B9F9F2FD-C767-4B3E-A191-B37EAFDBD5F8": {
+          "name": "Add new_icon"
+        },
+        "BA3544C1-997D-44B1-85BE-A3B79E090B18": {
+          "name": "icon / 24 / input-icon / icon-paragraph"
+        },
+        "BBA5326E-A522-4B84-82E8-80BEFDD33F4A": {
+          "name": "icon / explorer / numbers"
+        },
+        "BE2F0419-1D6B-43F1-95AD-576DAD2FED15": {
+          "name": "icon / admin_icon_initial"
+        },
+        "C137D83B-8349-4C35-838D-BE615D8AFA70": {
+          "name": "Interface-Essential / Alerts / alert-circle"
+        },
+        "C166D2C8-2CCD-46BA-9C00-EBE3692023F5": {
+          "name": "**sep - white"
+        },
+        "C252BA86-7042-4389-BA70-0CBCD8809A09": {
+          "name": "Rectangle 9 Copy 2"
+        },
+        "C5AFB556-B6F7-46AF-BFD3-49640AA0FEA9": {
+          "name": "Header V1"
+        },
+        "C5D34F85-7D98-489E-9CFB-89BA87120B9C": {
+          "name": "Editor"
+        },
+        "C6AD3A7E-D17C-4771-938F-94FFDD689E6D": {
+          "name": "navigation logic sub menu/2"
+        },
+        "C71E8118-1E07-44A5-8A98-379A71B2AD14": {
+          "name": "icon / explorer / S"
+        },
+        "C9F94B45-A78D-4715-85F3-E8B26E9F814E": {
+          "name": "Rectangle 9 Copy 2"
+        },
+        "CA2CEA2C-3601-4C38-B6C4-EFA6E22F207D": {
+          "name": "icon/Go To Flow"
+        },
+        "CB8EA116-EA01-4217-9660-AA6EC38DB4E5": {
+          "name": "rules_icon_initial"
+        },
+        "CC6C5EE9-6691-4163-A90F-A8DD4E8BE282": {
+          "name": "icon / 24 / input-icon / icon-upload-image"
+        },
+        "CD99B9B2-E345-446E-B725-CF74D3672F6E": {
+          "name": "icon / plus 2"
+        },
+        "D428C149-9FE0-4079-A980-8339B92ECBDA": {
+          "name": "Left side bar"
+        },
+        "D61CC7BA-F318-49CD-991E-7B5CC6B366FC": {
+          "name": "icon / back"
+        },
+        "D78518F8-CB97-4891-B835-78E7680B480A": {
+          "name": "input drop"
+        },
+        "D843638D-28CF-477E-A350-5B36E72B70C1": {
+          "name": "admin_icon_initial"
+        },
+        "D8904C37-91D8-4063-9136-0783B22AFF2F": {
+          "name": "icon / checkbox off"
+        },
+        "DAB5A07F-5D85-44B6-A7F7-A750C87CE585": {
+          "name": "Left bar menu section"
+        },
+        "DF22B742-4F10-4892-8FCE-387345C87186": {
+          "name": "Interface-Essential / Alerts / alert-circle Copy 2"
+        },
+        "E28B2134-AF7C-4AD5-A95D-259CE37BBB1F": {
+          "name": "Header V1 + tab"
+        },
+        "E342ACC0-C861-450B-94F4-EAF8F96F9281": {
+          "name": "button / outlined / strok 1px "
+        },
+        "E394083C-7048-41BA-AF0E-CF6FF56ED4A9": {
+          "name": "Search a Variable List Sets"
+        },
+        "E4EA6A54-330F-4C98-88DD-CC2A3821DFFE": {
+          "name": "input / designer / select element"
+        },
+        "E71E78E7-6577-4B6D-B714-CAD10448D8BE": {
+          "name": "back"
+        },
+        "E8E35A24-19D7-4CFA-80CF-D0E68299A8E2": {
+          "name": "field / ddown / w-out-title"
+        },
+        "ECAB68DF-6DA7-485D-B4E9-AE823C14D7BE": {
+          "name": "FlowOptions Test"
+        },
+        "F09B4208-19C9-4D1E-B840-704A3EAEE801": {
+          "name": "icon / 24 / input-icon / icon-collection-display"
+        },
+        "F2C80AC4-B966-4EF5-8567-3543A63C1D93": {
+          "name": "Page aditor / What's your favorite color?"
+        },
+        "F310FBC0-3E14-4075-AB5B-A3BDC15C302C": {
+          "name": "Radio/Off"
+        },
+        "F9E0D500-6CA7-4694-910A-736EF30EC6EF": {
+          "name": "icon / explorer / S"
+        },
+        "FA8DB3EB-F6F4-4F7F-AE85-E4153649FADB": {
+          "name": "Page aditor / What's your name?"
+        },
+        "FE370B26-F124-4518-8D9D-8711431342A3": {
+          "name": "icon / decision point"
+        }
+      }
+    },
+    "A27B10FE-6B69-4015-B924-1E6FEDA059A0": {
+      "name": "Page 1",
+      "artboards": {
+        "026C8DC0-21F4-4B58-A63A-609D3AD0DE97": {
+          "name": "Page editor input questions"
+        },
+        "052F827D-2601-4C3C-A1DD-59CC608DF6B4": {
+          "name": "Page editor choices"
+        },
+        "0910FFEA-D167-434D-9DF3-CD4A7554D16C": {
+          "name": "Canvas V1 trigger empty state"
+        },
+        "0971C3B1-4A8A-447C-B555-438662532586": {
+          "name": "Add new step menu new Copy"
+        },
+        "1B1BB356-404D-476A-B113-4C48AE6587EE": {
+          "name": "Elements view"
+        },
+        "22693F20-33C6-4E08-876B-6980165EB897": {
+          "name": "Canvas V1 trigger - sendemailoncredit + change element"
+        },
+        "2742E092-A2D1-4B2B-9CF2-CB662861025B": {
+          "name": "Page editor choices  with rules"
+        },
+        "31A5D398-4B16-4144-AC32-94B357D6FD88": {
+          "name": "Canvas V1 trigger - sendemailoncredit"
+        },
+        "3B125173-5B59-4CA7-B16E-16958EF89E1E": {
+          "name": "Decision Point editor"
+        },
+        "5B4F1C0C-973E-44AF-BCFC-09BC30E6A28C": {
+          "name": "Canvas V1 trigger - sendemailoncredit - hover"
+        },
+        "654ACF46-DF4E-4421-BAD8-ACF96F571894": {
+          "name": "Canvas V1 trigger - sendemailoncredit - popup selected"
+        },
+        "678A6A67-4002-47DB-B11D-1E21F2586ECE": {
+          "name": "Add new step menu Copy 2"
+        },
+        "746783AC-30C6-4701-B9E3-092AA0E2494C": {
+          "name": "Canvas V1 trigger - sendemailoncredit - popup"
+        },
+        "7FAF884B-EDA4-4E92-8BC7-E32823C65439": {
+          "name": "Add new step menu new v2.2"
+        },
+        "7FE95F4D-2DA2-4A3E-B598-A99A9C254735": {
+          "name": "Variables"
+        },
+        "84EBFEA6-0C52-4E56-937D-C14E17DC33B8": {
+          "name": "Canvas V1 trigger"
+        },
+        "887E9822-A012-479B-89EF-6B865EFDA9DC": {
+          "name": "Page editor Date elements"
+        },
+        "8EDD8016-8415-4DC9-B59F-AA77C3476546": {
+          "name": "Add new step menu new"
+        },
+        "94D2DC1E-F6E5-4905-80B3-99432C768973": {
+          "name": "Publish Pop up"
+        },
+        "96A34412-98F2-4C91-A1C2-76A433911F2F": {
+          "name": "Rules list"
+        },
+        "9BA1C781-6B75-4C40-9682-BAA5B03BF1C6": {
+          "name": "Variable Sets"
+        },
+        "A0A3F34A-7EA7-4C30-B124-1B36E92E7CAD": {
+          "name": "Add new step menu"
+        },
+        "A6279613-72B1-4897-908F-0A5DECA5DEA6": {
+          "name": "Canvas V1"
+        },
+        "A87FE238-3883-4867-936E-3825A644AB2F": {
+          "name": "Page editor Date elements Autocomplite"
+        },
+        "AA7250F4-45C3-4CD2-8C2A-32766D1F9325": {
+          "name": "Page editor paragraph"
+        },
+        "BBA274A4-AB93-4992-B4B4-37BB5F4FA2EF": {
+          "name": "Canvas V1 trigger triggers - table hover 9"
+        },
+        "DA2F477C-0F50-4DB0-91D3-F5548FD1479C": {
+          "name": "Canvas V1 trigger triggers"
+        },
+        "E2100D84-F58A-472B-A493-64329FFA2455": {
+          "name": "Current add step menu"
+        },
+        "EB208556-3478-44AE-BB0F-99AFD5CFBDBF": {
+          "name": "Menu"
+        },
+        "F49E64CA-33B1-402A-8979-C950E70D0F02": {
+          "name": "Resources"
+        },
+        "F5870F6E-B758-4AB9-9FB6-D9F0336D1BC6": {
+          "name": "Variable Set Definition"
+        },
+        "F5C9A6C5-6F8F-4D0B-9217-6FD99C2A2DD6": {
+          "name": "Add new step menu new v2"
+        }
+      }
+    }
+  },
+  "variant": "NONAPPSTORE",
+  "version": 118
+}

@@ -1,0 +1,44 @@
+{
+	"name": "m-sketch",
+	"version": "0.0.1",
+	"description": "morning.agency sketch cli tool",
+	"license": "MIT",
+	"repository": "anton-morning/m-sketch",
+	"author": {
+		"name": "Anton Dorofeyev",
+		"email": "anton@morning.agency",
+		"url": "https://morning.agency"
+	},
+	"preferGlobal": true,
+	"main": "./lib/index.js",
+	"bin": {
+		"m-sketch": "./lib/index.js"
+	},
+	"scripts": {
+		"start": "nodemon --watch 'src/**/*.ts' --exec 'ts-node' src/index.ts",
+		"create": "npm run build && npm run register",
+		"build": "tsc -p .",
+		"register": "npm i -g ./",
+		"refresh": "rm -rf ./node_modules ./package-lock.json && npm install"
+	},
+	"dependencies": {
+		"@sketch-hq/sketch-file-format": "^3.2.0",
+		"@sketch-hq/sketch-file-format-ts": "^3.0.0",
+		"chalk": "^3.0.0",
+		"clear": "^0.1.0",
+		"commander": "^4.0.1",
+		"figlet": "^1.2.4",
+		"inquirer": "^7.0.0",
+		"path": "^0.12.7",
+		"sketch-file": "^0.3.3"
+	},
+	"devDependencies": {
+		"@types/clear": "^0.1.0",
+		"@types/figlet": "^1.2.0",
+		"@types/inquirer": "^6.5.0",
+		"@types/node": "^12.12.14",
+		"nodemon": "^2.0.1",
+		"ts-node": "^8.5.2",
+		"typescript": "^3.7.2"
+	}
+}
